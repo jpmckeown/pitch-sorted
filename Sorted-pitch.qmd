@@ -2,47 +2,42 @@
 title: "Sorted"
 author: "Patrick McKeown"
 format: revealjs
+css: styles.css
 editor: visual
+slide-number: true
 title-slide-attributes:
-    data-background-image: "img/sprite.png"
+    data-background-image: "img/blue_sheep.jpg"
     data-background-size: contain
     data-background-opacity: "number"
 ---
 
-## Cover {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}
+## Sorted {.cover}
 
 Javascript game
 
-Pitch date:
+Pitch: day month, 2022
 
-Release date: (n weeks) 
+Release: day month, 2022
 
-Led by Patrick McKeown
+Patrick McKeown
+
+## {background-image="img/blue_sheep.jpg"}
+
+## {background-image="img/red_blue_sheep.jpg"}
+
+## {background-image="img/smart-elevated-clamp.jpg"}
+
+## {background-image="img/elevated-clamp.jpg"}
 
 ## Introduction {.scrollable}
 
-genre = puzzle?
+"Sorted" is a puzzle game with many levels. Sheep are lifted up to the player avatar (a hat) and sorted into two groups by applying paint. The main mechanism sends a sheep to move across terrain (which has various effects) towards the correct pen, like in the BBC program "One Man and His Dog".
 
-Pitch intro loads of text
-Pitch intro loads of text
+Early levels are simple, and the game is relaxed.
 
-Pitch intro loads of text
+The code is built on Chris's Javascript tutorials.
 
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-Pitch intro loads of text
-
-## About me
+## About me {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}
 
 :::: {.columns}
 
@@ -81,6 +76,8 @@ Speaker notes go here.
 :::
 
 ## Game Vision
+
+![](img/sprite.png){.absolute top=200 left=300 width="350" height="200"}
 
 ## Game Look
 
