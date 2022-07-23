@@ -1,0 +1,97 @@
+---
+title: "Sorted"
+author: "Patrick McKeown"
+format: revealjs
+editor: visual
+title-slide-attributes:
+    data-background-image: "img/sprite.png"
+    data-background-size: contain
+    data-background-opacity: "number"
+---
+
+## Cover {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}
+
+Javascript game
+
+Pitch date:
+
+Release date: (n weeks) 
+
+Led by Patrick McKeown
+
+## Introduction {.scrollable}
+
+genre = puzzle?
+
+Pitch intro loads of text
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+Pitch intro loads of text
+
+## About me
+
+:::: {.columns}
+
+::: {.column width="50%"}
+HometeamGamedev 5x gamechanger.
+
+Contributed to ten released HomeTeam games.
+:::
+
+::: {.column width="50%"}
+Right column
+:::
+
+::::
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
+
+## Inspirations {background-color="aquamarine"}
+
+"One of the Herd" by Tim Waskett ^[A footnote ref]
+
+. . .
+
+"Frogger"
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Demo
+::: {.incremental}
+- open demo
+- run demo
+:::
+
+## Game Vision
+
+## Game Look
+
+## Schedule overview
+
+## Roles - Art
+
+## Roles - Animation
+
+## Roles - Sound
+
+## Roles - Music
+
+## 
