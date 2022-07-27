@@ -7,16 +7,6 @@ editor: visual
 slide-number: true
 ---
 
-## Sorted {.cover}
-
-JS for HTML5 Canvas
-
-Pitch: day month, 2022
-
-Release: day month, 2022
-
-Patrick McKeown
-
 ## Sorted
 
 JS for HTML5 Canvas
@@ -27,32 +17,18 @@ Release: day month, 2022
 
 Patrick McKeown
 
-![](img/blue_sheep.jpg){.absolute top="5%" left="55%" width="422" height="350"}
+![](img/shaun.jpg){.absolute top="10%" left="55%" width="299" height="168"}
 
-## {background-image="img/red_blue_sheep.jpg"}
+![](img/blue_sheep.jpg){.absolute top="40%" left="55%" width="211" height="175"}
 
-## Inspiration {background-image="img/smart-elevated-clamp.jpg"}
-
-
-
-## {background-image="img/elevated-clamp.jpg"}
-
-## Prototype
-
-## Overview
-
-"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. Plan is for nine levels. Early levels are simple and serve as tutorial. The game is relaxed.
-
-## About me
+## Me in HomeTeam
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 5x gamechanger.
 
-Contributor to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
-
-My first game.
+Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 :::
 
 ::: {.column width="50%"}
@@ -64,6 +40,32 @@ My first game.
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
 
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
+
+## More about me
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+This is my first time pitching a HomeTeam game.
+:::
+
+::: {.column width="50%"}
+:::
+
+::::
+
+## Inspiration {background-image="img/red_blue_sheep.jpg"}
+
+## Inspiration {background-image="img/smart-elevated-clamp.jpg"}
+
+## Inspiration {background-image="img/elevated-clamp.jpg"}
+
+## Prototype
+
+## Overview
+
+"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. Plan is for nine levels. Early levels are simple and serve as tutorial. The game is relaxed.
 
 ## Inspiration
 
