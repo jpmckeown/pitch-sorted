@@ -5,15 +5,11 @@ format: revealjs
 css: styles.css
 editor: visual
 slide-number: true
-title-slide-attributes:
-    data-background-image: "img/blue_sheep.jpg"
-    data-background-size: contain
-    data-background-opacity: "number"
 ---
 
 ## Sorted {.cover}
 
-Javascript game
+JS for HTML5 Canvas
 
 Pitch: day month, 2022
 
@@ -21,74 +17,137 @@ Release: day month, 2022
 
 Patrick McKeown
 
-## {background-image="img/blue_sheep.jpg"}
+## Sorted
+
+JS for HTML5 Canvas
+
+Pitch: day month, 2022
+
+Release: day month, 2022
+
+Patrick McKeown
+
+![](img/blue_sheep.jpg){.absolute top="5%" left="55%" width="422" height="350"}
 
 ## {background-image="img/red_blue_sheep.jpg"}
 
-## {background-image="img/smart-elevated-clamp.jpg"}
+## Inspiration {background-image="img/smart-elevated-clamp.jpg"}
+
+
 
 ## {background-image="img/elevated-clamp.jpg"}
 
-## Introduction {.scrollable}
+## Prototype
 
-"Sorted" is a puzzle game with many levels. Sheep are lifted up to the player avatar (a hat) and sorted into two groups by applying paint. The main mechanism sends a sheep to move across terrain (which has various effects) towards the correct pen, like in the BBC program "One Man and His Dog".
+## Overview
 
-Early levels are simple, and the game is relaxed.
+"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. Plan is for nine levels. Early levels are simple and serve as tutorial. The game is relaxed.
 
-The code is built on Chris's Javascript tutorials.
-
-## About me {background-color="black" background-image="https://placekitten.com/100/100" background-size="100px" background-repeat="repeat"}
+## About me
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-HometeamGamedev 5x gamechanger.
+5x gamechanger.
 
-Contributed to ten released HomeTeam games.
+Contributor to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
+
+My first game.
 :::
 
 ::: {.column width="50%"}
-Right column
 :::
 
 ::::
 
-::: aside
-Some additional commentary of more peripheral interest.
-:::
+![](img/spark_2.png){.absolute top=0 left="50%" width="668" height="467"}
+![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
 
-## Inspirations {background-color="aquamarine"}
+![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
 
-"One of the Herd" by Tim Waskett ^[A footnote ref]
+## Inspiration
 
-. . .
+"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-"Frogger"
+![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
 
-::: {.notes}
-Speaker notes go here.
-:::
+## Inspiration
 
-## Demo
-::: {.incremental}
-- open demo
-- run demo
-:::
+"Animal Farm" by George Orwell
+
+and the 2021 Nerial game
+
+![](img/animalfarm-cover.jpg){.absolute top=240 left=0 width="640" height="360"}
 
 ## Game Vision
 
-![](img/sprite.png){.absolute top=200 left=300 width="350" height="200"}
+
 
 ## Game Look
 
+![](img/sortingHat.jpg)
+![](img/art_1.jpg)
+
+Art: kids cartoon style
+
+Palette: sonic-robo-blast-2-v22
+
 ## Schedule overview
 
-## Roles - Art
+Week : level editor usable
 
-## Roles - Animation
+Week : level 9 completed
 
-## Roles - Sound
+Weeks : playtesting
 
-## Roles - Music
+Weeks : polishing and bug-fixing
 
-## 
+## Trello board
+
+## Level design roles
+
+Level editing currently via number grid (like in Classic games)
+
+Aiming for 9 levels
+
+## Art roles
+
+Sorting hat
+
+Terrain tiles
+
+## Visual fx roles
+
+Sorting process (mystical & disorienting)
+
+Beckon (sheep brought up to hat)
+
+## Music roles
+
+Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
+
+When sorting begins a switch to different music with a slightly ominous tone would be helpful.
+
+## Sound fx roles
+
+Cartoon style e.g. Shaun the Sheep
+
+Beckon (sheep brought up to hat)
+
+Sorting
+
+Drop
+
+Moving into terrain 
+
+
+
+## Code roles
+
+The prototype is built on Chris DeLeon's Javascript tutorials, and will keep to that code style.
+
+## Testing roles
+
+Later levels especially need testing to see if they can be completed fairly easily.
+
+## Thank you for watching
