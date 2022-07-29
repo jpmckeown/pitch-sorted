@@ -37,14 +37,11 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 ::: {.column width="50%"}
 :::
 ::::
-
+s
 ![](img/fairy_on_grass.png){.absolute top=0 left="50%" width="668" height="467"}
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
 ![](GIF/flowerpot_transparent.GIF){.absolute top="55%" left="50%" width="64" height="64"}
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
-
-::: {.notes}
-:::
 
 ## About me
 
@@ -57,15 +54,9 @@ This is my first time pitching a HomeTeam game.
 :::
 ::::
 
-::: {.notes}
-:::
-
 ## Overview
 
 "Sorted" is a comedy puzzle game. The player, a farmer, wants the sheep to reach the correct pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map designed using terrain types which differently affect sheep movement. The game is relaxed.
-
-::: {.notes}
-:::
 
 ## Inspiration
 
@@ -73,8 +64,12 @@ This is my first time pitching a HomeTeam game.
 
 ![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
 
-::: {.notes}
-:::
+## Inspiration
+
+"Frogger"
+
+![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=500 top=50 width="336" height="286"}
+![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
 
 ## Inspiration
 
@@ -107,19 +102,6 @@ The player's icon symbolically represents the clamp and farmer combined. Placeho
 
 ## Prototype demo
 
-::: {.notes}
-:::
-
-## Mechanisms
-
-"Frogger"
-
-![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=500 top=50 width="336" height="286"}
-![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
-
-::: {.notes}
-:::
-
 ## Game Vision
 
 Novice videogame player not confused
@@ -130,8 +112,13 @@ Relaxed pace
 
 Overhead 2D
 
-::: {.notes}
-:::
+## Tutorial
+
+Where is the player on screen?
+
+What can I do? How is the game/level completed?
+
+Where are the places that I need to move the sheep to?
 
 ## Game Look
 
@@ -141,9 +128,6 @@ Overhead 2D
 Art: kids cartoon style
 
 Palette: sonic-robo-blast-2-v22
-
-::: {.notes}
-:::
 
 ## Tile set
 
@@ -157,22 +141,13 @@ Roam: sheep lose momentum and go into graze/wander mode
 
 Unsort: mark covered up, magic? dust? girl with paintbrush? 
 
-::: {.notes}
-:::
-
 ## Trello board
-
-::: {.notes}
-:::
 
 ## Level design roles
 
 Level editing currently via number grid (like in Classic games)
 
 Aiming for 9 levels
-
-::: {.notes}
-:::
 
 ## Art roles
 
@@ -204,6 +179,8 @@ Drop
 
 Moving into terrain 
 
+
+
 ## Code roles
 
 The prototype is built on Chris DeLeon's Javascript tutorials, and will keep to that code style.
@@ -215,6 +192,3 @@ Later levels especially need testing to see if they can be completed fairly easi
 ## Join the Sorted team!
 
 Trello board is at
-
-::: {.notes}
-:::

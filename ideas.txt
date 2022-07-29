@@ -11,8 +11,16 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 + how to comsine gotoXY and randomWalk i.e. travel down with some sideways wandering (and occasional upward reversals?)
 + sheep collision blocks movement (tried isOverlapPoint in spaceBattle code but quickly they stick together in small clumps)
 + if any background changes in-game, tiles better than bitmap
-+ mouse control for Hat, use gotoX like in RTS
++ mouse control for Hat, use gotoX like in RTS (move there at normal speed) not like Tennis (following mouse cursor)
 + EditMode toggle what mouse currently does e.g. select a sheep and move it instantly somewhere; move tile in level design; etc
+
+15 July
++ if change 1 row of grid (shuffle tiles left or right) it would confuse ball crossing tiles while they moving - if instant shift would be OK
++ Tiles mystic cave change colour, marsh slow, hay speed, signpost deflect, woods sideways, flower distract, Edges? fence restrict
++ sheep.init could assign and Hat only reveals (advantage? guarantee half each by making n/2 blue and then n/2 red)
+
+18 July
+began car code, down arrow drop, 
 
 21 July
 + spin face, also wobble
@@ -22,13 +30,35 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 + "sorting hat is a purple herring"
 + ?adapt WindyBalloons, drop things on tres?
 
+22 July
++ "
++ If sheep reach middle bottom (or sides?) they leave map (then stop & delete?) not available for Beckon.
+
 26 July
-Shaun slapstick, wild movement, spinning, visual comedy
-Animal farmer
++ Shaun slapstick, wild movement, spinning, visual comedy
++ Top row horizontal railway tracks emphasises hat cannot move down, homage to W&G Wrong Trousers 
++ early levels most errors miss both, because pens get bigger in later levels more arrivals in "The Wrong Lorry" (W&G)
++ one lot for lamb chops; other lot for mutton
++ level-state Save needed
++ avoided 2-player version (pied pipers) because dont want to encourage player to support either team. 
++ Shaun dog wears a het, but no, dog is against sort
++ Animal Farm = satire? people being categorised into two subsets could be related to many social phenomena.  the theme of a group being divided into two subgroups could be interpreted in many different ways. Nothing will be stated explicitly, leave open to imagination. A good satirist never spells it out.
+
+27 July
+?shunt centre on point ahead? Send to Dr B Anderson.
+
+28 July
++ Sequence of inspiration: OneOfHerd, early bagatelle ball drop, Amitheball? Animal Farm
++ rogue function unsort, test collision with all sheep (like spaceBattle)
 
 29 July
++ look thru Itch for my contributions
++ pitch cover add video of level with all elements OR video of Hat transform sheep
++ Frogger not Insp? avatar cross field, 1 frog per pen
++ Amitheball? A quote I saw in Chris' writings, conventional to Identify w active icon eg paddle, but perhaps shift Identify w ball, aiming for subtle hints in game that sheep don't want to leave farm 
++ Shrek onion gif. Polyvalence Early version was call pigeonhole and balls not sheep theme pigeonholing people into categories, div peopl into categ, but can play the game for fun without realising any meaning. Insp layers AF really is about farm e g seasonal cycle agri with harsh winter. And also a social parable
 + mumbly voice farmer (like in Shaun)
-+ 
-Leading
-don't alter a contribution, ask them to change it and explain how
++ Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, https://www.thebigfixup.co.uk/
+
+
 
