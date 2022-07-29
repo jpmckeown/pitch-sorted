@@ -24,7 +24,6 @@ Patrick McKeown
 ## About me
 
 :::: {.columns}
-
 ::: {.column width="50%"}
 5x gamechanger.
 
@@ -44,15 +43,12 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 ## About me
 
 :::: {.columns}
-
 ::: {.column width="50%"}
-
 This is my first time pitching a HomeTeam game.
 :::
 
 ::: {.column width="50%"}
 :::
-
 ::::
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg"}
@@ -63,7 +59,7 @@ This is my first time pitching a HomeTeam game.
 
 ## Overview
 
-"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. Plan is for nine levels. Early levels are simple and serve as tutorial. The game is relaxed.
+"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. The game is relaxed.
 
 ## Inspiration
 
@@ -105,16 +101,6 @@ Where are the places that I need to move the sheep to?
 Art: kids cartoon style
 
 Palette: sonic-robo-blast-2-v22
-
-## Schedule overview
-
-Week : level editor usable
-
-Week : level 9 completed
-
-Weeks : playtesting
-
-Weeks : polishing and bug-fixing
 
 ## Tile set
 
@@ -180,4 +166,6 @@ The prototype is built on Chris DeLeon's Javascript tutorials, and will keep to 
 
 Later levels especially need testing to see if they can be completed fairly easily.
 
-## Thank you for watching
+## Join the Sorted team!
+
+Trello board is at

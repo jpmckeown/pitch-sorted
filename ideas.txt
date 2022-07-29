@@ -1,11 +1,8 @@
-About me
-Years ago I made a 4-player "House-hunting game" to help Geography students lean about GIS.
-My day-job since April has been looking for a job.
+video/GIF for slides:
+  Hard Glitch animation
+  Spark flower animation
 
-Overview
-Peaceful game, or at least no violence on screen.
+audio for slides?
 
-
-Inspirations: grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view, minimal violence.
-Sorted differs: not attempting flocking AI, not copying realistic mechanism i.e. moving herder (dog or human) repels sheep.
-
+X Lost: woods, sheep randomly change direction
+X Bounce: move in arc sideways (random L/R) slightly up and then down
