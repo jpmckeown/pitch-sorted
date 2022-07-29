@@ -21,7 +21,7 @@ Patrick McKeown
 
 ![](img/blue_sheep.jpg){.absolute top="40%" left="55%" width="211" height="175"}
 
-## Me in HomeTeam
+## About me
 
 :::: {.columns}
 
@@ -41,7 +41,7 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
 
-## More about me
+## About me
 
 :::: {.columns}
 
@@ -59,9 +59,7 @@ This is my first time pitching a HomeTeam game.
 
 ## Inspiration {background-image="img/smart-elevated-clamp.jpg"}
 
-## Inspiration {background-image="img/elevated-clamp.jpg"}
-
-## Prototype
+## Prototype demo
 
 ## Overview
 
@@ -83,7 +81,21 @@ and the 2021 Nerial game
 
 ## Game Vision
 
+Novice videogame player not confused
 
+Peaceful (at least, no violence on screen)
+
+Relaxed pace
+
+Overhead 2D
+
+## Tutorial
+
+Where is the player on screen?
+
+What can I do? How is the game/level completed?
+
+Where are the places that I need to move the sheep to?
 
 ## Game Look
 
@@ -103,6 +115,22 @@ Week : level 9 completed
 Weeks : playtesting
 
 Weeks : polishing and bug-fixing
+
+## Tile set
+
+Field: base tile
+
+Deflect: right or left, maybe weak or strong
+
+Halt: lake, sheep stops and grazes
+
+X Lost: woods, sheep randomly change direction
+
+Roam: sheep lose momentum and go into graze/wander mode
+
+X Bounce: move in arc sideways (random L/R) slightly up and then down
+
+Unsort: mark covered up, magic? dust? girl with paintbrush? 
 
 ## Trello board
 
