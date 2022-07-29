@@ -53,19 +53,35 @@ This is my first time pitching a HomeTeam game.
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg"}
 
-## Inspiration {background-image="img/smart-elevated-clamp.jpg"}
+## Inspiration {background-image="img/smart-elevated-clamp.jpg" background-color="black"}
+
+::: {.notes}
+During assessment sheep are kept steady by going in a clamp, one at a time. High-end clamps are elevated and this inspired a game feature.
+:::
+
+## Inspiration {background-image="img/elevated-clamp.jpg"}
+
+![](img/sortingHat.jpg){.absolute left=900 top=480 width="225" height="225"}
+
+::: {.notes}
+The player's icon symbolically represents the clamp and shepherd combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
+:::
 
 ## Prototype demo
 
 ## Overview
 
-"Sorted" is a comedy puzzle game. The shepherd player wants sheep to reach their pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. The game is relaxed.
+"Sorted" is a comedy puzzle game. The player, a shepherd, wants the sheep to reach the correct pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. The game is relaxed.
 
 ## Inspiration
 
 "One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
 ![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
+
+## Inspiration
+
+"Frogger"
 
 ## Inspiration
 
@@ -110,11 +126,7 @@ Deflect: right or left, maybe weak or strong
 
 Halt: lake, sheep stops and grazes
 
-X Lost: woods, sheep randomly change direction
-
 Roam: sheep lose momentum and go into graze/wander mode
-
-X Bounce: move in arc sideways (random L/R) slightly up and then down
 
 Unsort: mark covered up, magic? dust? girl with paintbrush? 
 
