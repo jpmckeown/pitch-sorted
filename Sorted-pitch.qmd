@@ -11,15 +11,19 @@ slide-number: true
 
 JS for HTML5 Canvas
 
-Pitch: day month, 2022
+Pitch: 7 August, 2022
 
-Release: day month, 2022
+Release: 9 October, 2022
 
 Patrick McKeown
 
 ![](img/shaun.jpg){.absolute top="10%" left="55%" width="299" height="168"}
 
 ![](img/blue_sheep.jpg){.absolute top="40%" left="55%" width="211" height="175"}
+
+::: {.notes}
+Pitching today for SORTED a Javascript game releasing on 9th October
+:::
 
 ## About me
 
@@ -32,12 +36,11 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 
 ::: {.column width="50%"}
 :::
-
 ::::
 
 ![](img/spark_2.png){.absolute top=0 left="50%" width="668" height="467"}
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
-
+![](GIF/flowerpot_transparent.GIF){.absolute top="55%" left="50%" width="64" height="64"}
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
 
 ## About me
@@ -65,7 +68,8 @@ This is my first time pitching a HomeTeam game.
 
 "Frogger"
 
-![](GIF/Frogger_Parker_Animation.gif)
+![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=500 top=50 width="336" height="286"}
+![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
 
 ## Inspiration
 
@@ -73,7 +77,7 @@ This is my first time pitching a HomeTeam game.
 
 and the 2021 Nerial game
 
-![](img/animalfarm-cover.jpg){.absolute top=240 left=0 width="640" height="360"}
+![](img/animalfarm-cover.jpg){.absolute top=100 left=0 width=631 height=358}
 
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}

@@ -6,3 +6,29 @@ audio for slides?
 
 X Lost: woods, sheep randomly change direction
 X Bounce: move in arc sideways (random L/R) slightly up and then down
+
+14 July
++ how to comsine gotoXY and randomWalk i.e. travel down with some sideways wandering (and occasional upward reversals?)
++ sheep collision blocks movement (tried isOverlapPoint in spaceBattle code but quickly they stick together in small clumps)
++ if any background changes in-game, tiles better than bitmap
++ mouse control for Hat, use gotoX like in RTS
++ EditMode toggle what mouse currently does e.g. select a sheep and move it instantly somewhere; move tile in level design; etc
+
+21 July
++ spin face, also wobble
++ fence around a protected tree (made png)
++ happy music until first sort, then ominous
++ at end of game (Quit cutscene) all sheep escape from pens, turn white, and happy music plays
++ "sorting hat is a purple herring"
++ ?adapt WindyBalloons, drop things on tres?
+
+26 July
+Shaun slapstick, wild movement, spinning, visual comedy
+Animal farmer
+
+29 July
++ mumbly voice farmer (like in Shaun)
++ 
+Leading
+don't alter a contribution, ask them to change it and explain how
+
