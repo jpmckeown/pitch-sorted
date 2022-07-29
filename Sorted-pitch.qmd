@@ -51,7 +51,32 @@ This is my first time pitching a HomeTeam game.
 :::
 ::::
 
-## Inspiration {background-image="img/red_blue_sheep.jpg"}
+## Overview
+
+"Sorted" is a comedy puzzle game. The player, a farmer, wants the sheep to reach the correct pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map designed using terrain types which differently affect sheep movement. The game is relaxed.
+
+## Inspiration
+
+"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+
+![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
+
+## Inspiration
+
+"Frogger"
+
+![](GIF/Frogger_Parker_Animation.gif)
+
+## Inspiration
+
+"Animal Farm" by George Orwell
+
+and the 2021 Nerial game
+
+![](img/animalfarm-cover.jpg){.absolute top=240 left=0 width="640" height="360"}
+
+
+## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}
 
 ::: {.notes}
 On upland farms you often see sheep painted with different colours. This can signify various things, but one use is after assessing a sheep's quality. For example a farmer wants to identify ewes as fertile or barren. The infertile cannot stay in the flock and will be sold.
@@ -72,28 +97,6 @@ The player's icon symbolically represents the clamp and farmer combined. Placeho
 :::
 
 ## Prototype demo
-
-## Overview
-
-"Sorted" is a comedy puzzle game. The player, a shepherd, wants the sheep to reach the correct pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map design choosing from a dozen terrain types which affect sheep movement. The game is relaxed.
-
-## Inspiration
-
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
-
-![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
-
-## Inspiration
-
-"Frogger"
-
-## Inspiration
-
-"Animal Farm" by George Orwell
-
-and the 2021 Nerial game
-
-![](img/animalfarm-cover.jpg){.absolute top=240 left=0 width="640" height="360"}
 
 ## Game Vision
 
