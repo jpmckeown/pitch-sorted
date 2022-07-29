@@ -53,18 +53,22 @@ This is my first time pitching a HomeTeam game.
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg"}
 
+::: {.notes}
+On upland farms you often see sheep painted with different colours. This can signify various things, but one use is after assessing a sheep's quality. For example a farmer wants to identify ewes as fertile or barren. The infertile cannot stay in the flock and will be sold.
+:::
+
 ## Inspiration {background-image="img/smart-elevated-clamp.jpg" background-color="black"}
 
 ::: {.notes}
-During assessment sheep are kept steady by going in a clamp, one at a time. High-end clamps are elevated and this inspired a game feature.
+One at a time, to be assessed and painted sheep will go up into a clamp that holds them steady. High-end clamps have up and down ramps and this inspired the game mechanics beckon, paint, and drop.
 :::
 
 ## Inspiration {background-image="img/elevated-clamp.jpg"}
 
-![](img/sortingHat.jpg){.absolute left=900 top=480 width="225" height="225"}
+![](img/sortingHat.jpg){.absolute left=920 top=480 width="225" height="225"}
 
 ::: {.notes}
-The player's icon symbolically represents the clamp and shepherd combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
+The player's icon symbolically represents the clamp and farmer combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
 :::
 
 ## Prototype demo
