@@ -1,7 +1,9 @@
 ---
 title: "Sorted"
 author: "Patrick McKeown"
-format: revealjs
+format: 
+  revealjs:
+    auto-play-media: true
 css: styles.css
 editor: visual
 slide-number: true
@@ -71,19 +73,28 @@ This is my first time pitching a HomeTeam game.
 
 "One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
+<video data-autoplay src="video/OneOfTheHerd_Level_3.mkv" width="960" height="540"></video>
 
 ::: {.notes}
 :::
 
 ## Inspiration
 
-"Animal Farm" by George Orwell
+"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-and the 2021 Nerial game
+![](video/OneOfTheHerd_Level_3.mkv){.absolute top=140 left=0 width="668" height="467"}
 
-![](img/animalfarm-cover.jpg){.absolute top=100 left=0 width=631 height=358}
+::: {.notes}
+:::
 
+## Inspiration
+
+"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+
+![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
+
+::: {.notes}
+:::
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}
 
@@ -103,6 +114,24 @@ One at a time, to be assessed and painted sheep will go up into a clamp that hol
 
 ::: {.notes}
 The player's icon symbolically represents the clamp and farmer combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
+:::
+
+## Inspiration
+
+"Am I the ball?"
+
+::: {.notes}
+:::
+
+## Inspiration
+
+"Animal Farm" by George Orwell
+
+and the 2021 Nerial game
+
+![](img/animalfarm-cover.jpg){.absolute top=100 left=0 width=631 height=358}
+
+::: {.notes}
 :::
 
 ## Prototype demo

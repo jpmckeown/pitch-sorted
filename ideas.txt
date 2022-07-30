@@ -7,6 +7,29 @@ audio for slides?
 X Lost: woods, sheep randomly change direction
 X Bounce: move in arc sideways (random L/R) slightly up and then down
 
+PigeonWhole
++ ball falls down centre of screen, deflect to score
+erodable bricks wall can be pulled across to block path
++ while balls Pause player can act (add move a wall)
++ if middle of wall breaks you lose bricks beyond it
++ ball bounced may become random walker
++ balls collected in side area like plunger-zone
++ obstacle mid-board can change ball colour
++ maybe ball in collection changes colour and escapes
++ what-if hit area betwen goals, ball stuck go grey?
++ how can stuck balls be revived
++ colour match neighbours to drop to score
++ Sounds = ball spawn, sort, push, travel, pocket, reject, roll-in
+
+June
+
+11 July
++ OotH facing for sheep, only go forward, sometimes wiggle
++ pull animation SB suggested a dog
+
+13 July
++ tutorial anim/vid Hat move, beckon, popup highlights arrow keys
++ each level could have different background
 14 July
 + how to comsine gotoXY and randomWalk i.e. travel down with some sideways wandering (and occasional upward reversals?)
 + sheep collision blocks movement (tried isOverlapPoint in spaceBattle code but quickly they stick together in small clumps)
@@ -18,6 +41,9 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 + if change 1 row of grid (shuffle tiles left or right) it would confuse ball crossing tiles while they moving - if instant shift would be OK
 + Tiles mystic cave change colour, marsh slow, hay speed, signpost deflect, woods sideways, flower distract, Edges? fence restrict
 + sheep.init could assign and Hat only reveals (advantage? guarantee half each by making n/2 blue and then n/2 red)
++ balls roll into top row, one at a time?
++ ball needs marking to show it is rolling
++ piper has connotation of malevolence toward ball
 
 18 July
 began car code, down arrow drop, 
