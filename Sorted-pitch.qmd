@@ -33,7 +33,7 @@ Pitching today for SORTED a Javascript game releasing on 9th October
 ::: {.column width="50%"}
 5x gamechanger.
 
-Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
+Contributed to 12 HomeTeam games: mostly sounds (synth & real), sprites, writing, and shapes.
 :::
 
 ::: {.column width="50%"}
@@ -46,6 +46,7 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
 
 ::: {.notes}
+Glitch GIFs; IAT logo; tree? Pit-rifle?
 :::
 
 ## About me
@@ -73,7 +74,7 @@ This is my first time pitching a HomeTeam game.
 
 "One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-<video data-autoplay src="video/OneOfTheHerd_Level_3.mkv" width="960" height="540"></video>
+<video data-autoplay src="video/OneOfTheHerd_Level_3_Trim.mp4"></video>
 
 ::: {.notes}
 :::
@@ -82,9 +83,10 @@ This is my first time pitching a HomeTeam game.
 
 "One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-![](video/OneOfTheHerd_Level_3.mkv){.absolute top=140 left=0 width="668" height="467"}
+![](video/OneOfTheHerd_Level_3_Trim.mp4){.absolute top=140 left=0 width="864" height="486"}
 
 ::: {.notes}
+width="960" height="540"
 :::
 
 ## Inspiration

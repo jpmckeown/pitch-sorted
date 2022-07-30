@@ -9,6 +9,11 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 
 PigeonWhole
 + ball falls down centre of screen, deflect to score
++ matching eg get red ball in red pocket
++ aim eg rotate makes it easy to hit target OR cross-hair moved with arrow keys OR binary aim toggle left/right
++ APC5 rotates cannon with mouse, dashed line to target
++ pusher/shunt need space for it to move around ball
++ reject retreats instraight line
 + erodable bricks wall can be pulled across to block path
 + ways to influence ball after launch
 + goals & side-stores are pale version of team-colour+ roll sideways to reach store, puch other balls down, or drop in store until hit another available+ store is ball width plus a few pixels
@@ -27,10 +32,37 @@ PigeonWhole
 + choose orientation of game
 + hat as blue/red flux, swirling
 
+1st March = sheep herding idea, also Windy Balloon
+
+March
++ how to complicate aiming: slopes, obstacles, terrain
++ if ball stops moving (before goal) it becomes an obstacle
++ can a ball knock another ball out of its way?
++ what happens to ball rejected by pocket?
++ EditMode jump to later step e.g. pocket filling up
++ nudge ball from side
+
+Theme = tribalism 
++ who is Sorter? fixated on one aspect, colour, and ignoring other differences e.g. texture, holes, shape square triangle, circle
++ can we get a ball's eye view?
++ tally events and score for each ball separately
++ rejection: links to other balls in group initially form, but they puff particles at misfit ball, then links dissolve and misfit falls 
++ before sort ball covered in swirling thick misfit+ confrmist mode, balls of diff colour also has asociated shape etc but later...
++ dont need to hit other ball at far end, if near a bond forms but less score if distant (la Boule)
+Ball score = linked, accepted, events en route 
+
 April
 + can you launch another ball while one still on its way (yes)
 + at start show close-up image of Hat, sheep, goals
 + a 2nd colour on ball, spots or stripes
++ hat agitated (more jiggling) if impure sort
++ debug eg mouse drag ball, 
++ sprites idle Hat, moving Hat, stuck ball, 
+
+May
++ make pattern eg 3 of same colour, centroids connecting line, score by angles or pattern, cohort complte all move in collector to score
++ admission by cohort not individual
++ no horizontal control (cannot choose where u start from in life)
 
 June
 + what happens in pen, line up regimented?
@@ -66,9 +98,18 @@ June
 + balls roll into top row, one at a time?
 + ball needs marking to show it is rolling
 + piper has connotation of malevolence toward ball
++ particles celbrate arrival of sheep in pen
++ face happy turns to sad in pen (discordance)
++ in pen, stop walk, some jiggling?
++ face can spin or oscillate to show confusion
 
 18 July
-began car code, down arrow drop, 
++ separate scoring screen, like in SafeCode 
++ began car code, down arrow drop, 
+
+19 July
++ level 2 drop only travels part-way
++ harder moves to lead, through pen and respawns
 
 21 July
 + spin face, also wobble
