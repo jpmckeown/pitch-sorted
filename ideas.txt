@@ -9,7 +9,11 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 
 PigeonWhole
 + ball falls down centre of screen, deflect to score
-erodable bricks wall can be pulled across to block path
++ erodable bricks wall can be pulled across to block path
++ ways to influence ball after launch
++ goals & side-stores are pale version of team-colour+ roll sideways to reach store, puch other balls down, or drop in store until hit another available+ store is ball width plus a few pixels
++ piper can machete hedge to let sheep through!
++ click to aim draws arrow to target tile
 + while balls Pause player can act (add move a wall)
 + if middle of wall breaks you lose bricks beyond it
 + ball bounced may become random walker
@@ -20,8 +24,26 @@ erodable bricks wall can be pulled across to block path
 + how can stuck balls be revived
 + colour match neighbours to drop to score
 + Sounds = ball spawn, sort, push, travel, pocket, reject, roll-in
++ choose orientation of game
++ hat as blue/red flux, swirling
+
+April
++ can you launch another ball while one still on its way (yes)
++ at start show close-up image of Hat, sheep, goals
++ a 2nd colour on ball, spots or stripes
 
 June
++ what happens in pen, line up regimented?
++ after drop how long does sheep maintain direction
++ do sheep bounce off sides of screen?
++ what happens at pen if not exactly on-target
++ some wandering while in tractor
+
+21 June
++ is mouse dragbox selection useful in EditMode+ cost of actions
++ ome array for all sheep
++ tint sprite colour via Js
++ health or happy bars for sheep?
 
 11 July
 + OotH facing for sheep, only go forward, sometimes wiggle
@@ -59,6 +81,9 @@ began car code, down arrow drop,
 22 July
 + "
 + If sheep reach middle bottom (or sides?) they leave map (then stop & delete?) not available for Beckon.
++ beckon soundfx is piping
++ while beckon some wandering random % influence
++ long range beckon takes longer to work, soundfx queiter?
 
 26 July
 + Shaun slapstick, wild movement, spinning, visual comedy
@@ -86,5 +111,12 @@ began car code, down arrow drop,
 + mumbly voice farmer (like in Shaun)
 + Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, https://www.thebigfixup.co.uk/
 
-
+30 July
++ what makes level end? no sheep available to tractor
++ sheep sprite equal size head & body
++ is there a minimum score to proress to next level?
++ level ending screen?
++ game over screen if completed all levels?
++ EditMode? wander toggle
++ visual tile design tool
 
