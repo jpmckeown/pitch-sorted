@@ -93,7 +93,7 @@ Years ago I made a 4-player "House-hunting game" to help Geography students lear
 
 "One Man and His Dog"
 
-![](video/1MahD-4-Pen-Trim.mp4){.absolute left=0 top=200 width=800 height=450}
+![](video/1MahD-4-Pen-Trim.mp4){.absolute left=0 top=170 width=800 height=450}
 
 ::: {.notes}
 In the BBC TV program "One Man and His Dog" the competitors move a flock of sheep around obstacles and finally into a pen.

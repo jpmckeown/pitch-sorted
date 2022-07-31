@@ -1,11 +1,4 @@
-video/GIF for slides:
-  Hard Glitch animation
-  Spark flower animation
-
-audio for slides?
-
-X Lost: woods, sheep randomly change direction
-X Bounce: move in arc sideways (random L/R) slightly up and then down
+Timwaskett: Oh nice!  Yeah, that was a fun project, I'll poke my head in if you'd like any input.
 
 PigeonWhole
 + ball falls down centre of screen, deflect to score
@@ -161,5 +154,4 @@ June
 + level ending screen?
 + game over screen if completed all levels?
 + EditMode? wander toggle
-+ visual tile design tool
-
++ visual area tile design tool

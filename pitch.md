@@ -21,13 +21,6 @@ Placeholder art for the player icon is a Sorting Hat because it reminded me of s
 
 ## Notes from slides
 
-::: Inspiration {.notes}
-::
-
-
-::: {.notes}
-::
-
 Sorting sheep is tinged with sadness if the sort is for going to market. Later levels bring out the downside of sorting, for example a sheep may be marked with two colours (like Harry Potter being Slytherin) or terrain may change sheep colour, or a sheep may fluctuate between colours.
 
 ## Levels

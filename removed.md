@@ -1,5 +1,8 @@
 ## Removed from pitch
 
+X Lost: woods, sheep randomly change direction
+X Bounce: move in arc sideways (random L/R) slightly up and then down
+
 Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
 
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
