@@ -41,27 +41,28 @@ Contributed to 12 games
 :::
 ::::
 
-![](img/fairy_on_grass.png){.absolute top=0 left="50%" width="366" height="182"}
-![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
+![](img/tree1.png){.absolute top="48%" left="29%" width=192 height=192}
 
-![](GIF/flowerpot_transparent.gif){.absolute top="15%" left="50%" width="64" height="64"}
-![](GIF/flowerpot_blue.gif){.absolute top="15%" left="30%" width="64" height="64"}
+![](img/fairy_on_grass.png){.absolute top="10%" left="55%" width="366" height="182"}
 
-![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
+![](asset/flowerpot1.gif){.absolute top="15%" left="60%" width="96" height="96"}
+![](GIF/flowerpot_blue.gif){.absolute top="24%" left="71%" width="64" height="64"}
 
-![](GIF/item_shift.gif){.absolute top="75%" left="50%" width="64" height="64"}
-![](GIF/item_threadpool.GIF){.absolute top="75%" left="65%" width="64" height="64"}
-![](GIF/item_computercluster.GIF){.absolute top="75%" left="80%" width="64" height="64"}
+![](img/IAT_logo_Aurora_320.png){.absolute top="50%" left="2%" width="240" height="180"}
 
-![](img/IAT_logo_Aurora_320.png){.absolute top="48%" left="50%" width="384" height="192"}
-![](img/tree1.png){.absolute top="48%" left="50%" width=128 height=128}
+![](GIF/item_shift.gif){.absolute top="85%" left="2%" width="64" height="64"}
+![](GIF/item_threadpool.GIF){.absolute top="85%" left="10%" width="64" height="64"}
+![](GIF/item_computercluster.GIF){.absolute top="85%" left="18%" width="64" height="64"}
 
-![](img/table_left.png){.absolute top="80%" left="500" width="114" height="88"}
-![](img/table_right.png){.absolute top="80%" left="557" width="92" height="88"}
+![](img/table_left.png){.absolute top="82%" left="350" width="114" height="88"}
+![](img/table_right.png){.absolute top="82%" left="407" width="92" height="88"}
 
+![](img/hovertactics.png){.absolute top="43%" left="50%" width="306" height="234"}
+
+![](GIF/gem-1.gif){.absolute top="82%" left="50%" width="96" height="96"}
 
 ::: {.notes}
-Contributed to 12 HomeTeam games, mostly sound effects (synthetic and recorded, recently got into Audacity filters), also sprites, writing, and shapes.
+Contributed to 12 HomeTeam games, mostly sound effects (synthetic or recorded plus Audacity filters), also sprites, writing, and shapes.
 :::
 
 ## About me
@@ -72,10 +73,12 @@ This is my first time pitching a HomeTeam game.
 :::
 
 ::: {.column width="50%"}
+![](img/GeographyCAL_modules_menu.png)
 :::
 ::::
 
 ::: {.notes}
+Years ago I made a 4-player "House-hunting game" to help Geography students learn about GIS.
 :::
 
 ## Overview
@@ -201,7 +204,16 @@ Unsort: mark covered up, magic? dust? girl with paintbrush?
 ::: {.notes}
 :::
 
-## Trello board
+## to the Trello
+
+::: {.notes}
+:::
+
+## Roles - looking for help
+
+Music
+
+Art
 
 ::: {.notes}
 :::
@@ -229,7 +241,6 @@ Beckon (sheep brought up to hat)
 
 ## Music roles
 
-Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
 
 When sorting begins a switch to different music with a slightly ominous tone would be helpful.
 
