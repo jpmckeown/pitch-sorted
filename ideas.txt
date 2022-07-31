@@ -142,6 +142,8 @@ June
 28 July
 + Sequence of inspiration: OneOfHerd, early bagatelle ball drop, Amitheball? Animal Farm
 + rogue function unsort, test collision with all sheep (like spaceBattle)
++ learning sequence - where player, how move, what can do? signif teams, where's goal; how score, how beckon, 
++ how write new values into Grid ?
 
 29 July
 + look thru Itch for my contributions

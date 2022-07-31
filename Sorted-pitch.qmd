@@ -31,22 +31,37 @@ Pitching today for SORTED a Javascript game releasing on 9th October
 
 :::: {.columns}
 ::: {.column width="50%"}
-5x gamechanger.
 
-Contributed to 12 HomeTeam games: mostly sounds (synth & real), sprites, writing, and shapes.
+5x gamechanger
+
+Contributed to 12 games
 :::
 
 ::: {.column width="50%"}
 :::
 ::::
 
-![](img/fairy_on_grass.png){.absolute top=0 left="50%" width="668" height="467"}
+![](img/fairy_on_grass.png){.absolute top=0 left="50%" width="366" height="182"}
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
-![](GIF/flowerpot_transparent.GIF){.absolute top="55%" left="50%" width="64" height="64"}
+
+![](GIF/flowerpot_transparent.gif){.absolute top="15%" left="50%" width="64" height="64"}
+![](GIF/flowerpot_blue.gif){.absolute top="15%" left="30%" width="64" height="64"}
+
 ![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
 
+![](GIF/item_shift.gif){.absolute top="75%" left="50%" width="64" height="64"}
+![](GIF/item_threadpool.GIF){.absolute top="75%" left="65%" width="64" height="64"}
+![](GIF/item_computercluster.GIF){.absolute top="75%" left="80%" width="64" height="64"}
+
+![](img/IAT_logo_Aurora_320.png){.absolute top="48%" left="50%" width="384" height="192"}
+![](img/tree1.png){.absolute top="48%" left="50%" width=128 height=128}
+
+![](img/table_left.png){.absolute top="80%" left="500" width="114" height="88"}
+![](img/table_right.png){.absolute top="80%" left="557" width="92" height="88"}
+
+
 ::: {.notes}
-Glitch GIFs; IAT logo; tree? Pit-rifle?
+Contributed to 12 HomeTeam games, mostly sound effects (synthetic and recorded, recently got into Audacity filters), also sprites, writing, and shapes.
 :::
 
 ## About me
@@ -74,10 +89,13 @@ This is my first time pitching a HomeTeam game.
 
 "One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
-<video data-autoplay src="video/OneOfTheHerd_Level_3_Trim.mp4"></video>
+![](GIF/ezgif_OneOfTheHerd_Level_3.gif){.absolute left=0 top=200 width=600 height=338}
 
-::: {.notes}
-:::
+## Inspiration
+
+"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+
+![](video/OneOfTheHerd_Level_3_Trim.mp4)
 
 ## Inspiration
 
@@ -89,14 +107,6 @@ This is my first time pitching a HomeTeam game.
 width="960" height="540"
 :::
 
-## Inspiration
-
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
-
-![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
-
-::: {.notes}
-:::
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}
 
@@ -233,7 +243,10 @@ Sorting
 
 Drop
 
-Moving into terrain 
+Moving into terrain
+
+::: {.notes}
+:::
 
 ## Code roles
 
