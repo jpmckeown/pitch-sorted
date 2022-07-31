@@ -83,31 +83,30 @@ Years ago I made a 4-player "House-hunting game" to help Geography students lear
 
 ## Overview
 
-"Sorted" is a comedy puzzle game. The player, a farmer, wants the sheep to reach the correct pen - like in the BBC TV program "One Man and His Dog". Each level will have a tiled map designed using terrain types which differently affect sheep movement. The game is relaxed.
+"Sorted" is a comedy puzzle game. Each level has a tiled map designed using terrain types which differently affect sheep movement. The game is relaxed.
 
 ::: {.notes}
+
 :::
 
-## Inspiration
+## Inspirations
 
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+"One Man and His Dog"
+
+![](video/1MahD-4-Pen-Trim.mp4){.absolute left=0 top=200 width=800 height=450}
+
+::: {.notes}
+In the BBC TV program "One Man and His Dog" the competitors move a flock of sheep around obstacles and finally into a pen.
+:::
+
+## "One of the Herd"
+
+by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
 
 ![](GIF/ezgif_OneOfTheHerd_Level_3.gif){.absolute left=0 top=200 width=600 height=338}
 
-## Inspiration
-
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
-
-![](video/OneOfTheHerd_Level_3_Trim.mp4)
-
-## Inspiration
-
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
-
-![](video/OneOfTheHerd_Level_3_Trim.mp4){.absolute top=140 left=0 width="864" height="486"}
-
 ::: {.notes}
-width="960" height="540"
+Demo: overhead 2D view, each level gets fresh set of sheep, minimal violence. In One of the Herd clever algorithms for sheep being repelled by herder so if you move too fast or too close they scatter. Also flocking between sheep. Sorted game won't attempt that realism, looking for other mechanisms.
 :::
 
 
@@ -131,16 +130,14 @@ One at a time, to be assessed and painted sheep will go up into a clamp that hol
 The player's icon symbolically represents the clamp and farmer combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
 :::
 
-## Inspiration
-
-"Am I the ball?"
+## "Am I the ball?"
 
 ::: {.notes}
 :::
 
-## Inspiration
+## "Animal Farm" 
 
-"Animal Farm" by George Orwell
+book by George Orwell, 
 
 and the 2021 Nerial game
 

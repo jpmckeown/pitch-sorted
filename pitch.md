@@ -8,9 +8,7 @@ Peaceful game, or at least no violence on screen.
 
 Inspiration: 
 
-One of the Herd
-grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view, minimal violence.
-Sorted differs: not attempting flocking AI, not copying realistic mechanism i.e. moving herder (dog or human) repels sheep.
+
 
 On upland farms you see sheep painted with different colours. These can signify various things, but one use is when assessing a sheep's quality. For example a shepherd will want to identify ewes as fertile or barren. The infertile cannot stay in the flock and will be sold.
 
