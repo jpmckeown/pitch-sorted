@@ -72,6 +72,9 @@ June
 + tint sprite colour via Js
 + health or happy bars for sheep?
 
+1st July
++ random walk, triangle draw
+
 11 July
 + OotH facing for sheep, only go forward, sometimes wiggle
 + pull animation SB suggested a dog
@@ -110,7 +113,11 @@ June
 + piper trail sheep nearby, not attached unlike hat
 
 21 July
-+ spin face, also wobble
++ angle of graphic separate from facing
++ face should mostly stay upright unaffected by movement
++ spin face, also wobble oscillate
++ sleeping sheep lies on it side, eyes closed
++ put ID label inside circle/sheep
 + fence around a protected tree (made png)
 + happy music until first sort, then ominous
 + at end of game (Quit cutscene) all sheep escape from pens, turn white, and happy music plays
@@ -123,6 +130,10 @@ June
 + beckon soundfx is piping
 + while beckon some wandering random % influence
 + long range beckon takes longer to work, soundfx queiter?
+
+23 July
++ one lot for lamb chops, other for petfood, or 2 contracctsgoing in diferent lorry
++ alert error when image name wrong
 
 26 July
 + Shaun slapstick, wild movement, spinning, visual comedy
