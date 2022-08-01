@@ -3,8 +3,7 @@ grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view
 Sorted differs: not attempting flocking AI, not copying realistic mechanism i.e. moving herder (dog or human) repels sheep.
 
 About me
-Years ago I made a 4-player "House-hunting game" to help Geography students lean about GIS.
-My day-job since April has been looking for a job.
+Years ago I made a 4-player "House-hunting game" to help Geography students lean about GIS. MMy day-job since April has been looking for a job.
 : HHG imagery
 
 Overview

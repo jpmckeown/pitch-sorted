@@ -7,6 +7,38 @@ Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu
 
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
 
+## Visual fx roles
+
+Sorting process (mystical & disorienting)
+
+Beckon (sheep brought up to hat)
+
+## Music roles
+
+When sorting begins a switch to different music with a slightly ominous tone would be helpful.
+
+## Sound fx roles
+
+Cartoon style e.g. Shaun the Sheep
+
+Beckon (sheep brought up to hat)
+
+Sorting
+
+Drop
+
+Moving into terrain
+
+## Code roles
+
+The prototype is built on Chris DeLeon's Javascript tutorials, and will keep to that code style.
+
+## Testing roles
+
+Later levels especially need testing to see if they can be completed fairly easily.
+::: {.notes}
+:::
+
 <video data-autoplay src="video/OneOfTheHerd_Level_3_Trim.mp4"></video>
 ::: {.notes}
 :::

@@ -8,7 +8,7 @@ PigeonWhole
 + aim eg rotate makes it easy to hit target OR cross-hair moved with arrow keys OR binary aim toggle left/right
 + APC5 rotates cannon with mouse, dashed line to target
 + pusher/shunt need space for it to move around ball
-+ reject retreats instraight line
++ reject retreats in straight line
 + erodable bricks wall can be pulled across to block path
 + ways to influence ball after launch
 + goals & side-stores are pale version of team-colour+ roll sideways to reach store, puch other balls down, or drop in store until hit another available+ store is ball width plus a few pixels
