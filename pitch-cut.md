@@ -21,6 +21,12 @@ What can I do? How is the game/level completed?
 
 Where are the places that I need to move the sheep to?
 
-One of the Herd
-grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view, minimal violence.
-Sorted differs: not attempting flocking AI, not copying realistic mechanism i.e. moving herder (dog or human) repels sheep.
+## Schedule overview
+
+Week : level editor usable
+
+Week : level 9 completed
+
+Weeks : playtesting
+
+Weeks : polishing and bug-fixing

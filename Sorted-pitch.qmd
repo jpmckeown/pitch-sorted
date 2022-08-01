@@ -19,9 +19,10 @@ Release: 9 October, 2022
 
 Patrick McKeown
 
-![](img/shaun.jpg){.absolute top="10%" left="55%" width="299" height="168"}
+![](GIF/divide_flock_Churchmount_pause.gif){.absolute top="10%" left="50%" width="567" height="320"}
 
-![](img/blue_sheep.jpg){.absolute top="40%" left="55%" width="211" height="175"}
+![](img/blue_sheep.jpg){.absolute top="55%" left="0%" width="211" height="175"}
+![](img/sheep-red-josweeney.jpg){.absolute top="55%" left="21%" width="259" height="194"}
 
 ::: {.notes}
 Pitching today for SORTED a Javascript game releasing on 9th October
@@ -179,6 +180,8 @@ Overhead 2D
 ![](img/sortingHat.jpg)
 ![](img/art_1.jpg)
 
+![](img/shaun.jpg){.absolute top="10%" left="55%" width="299" height="168"}
+
 Art: kids cartoon style
 
 Palette: sonic-robo-blast-2-v22
@@ -267,6 +270,8 @@ Later levels especially need testing to see if they can be completed fairly easi
 ## Join the Sorted team!
 
 Trello board is at
+
+![](video/1MahD-4-Pen-Trim.mp4){.absolute left=400 top=100 width=440 height=270}
 
 ::: {.notes}
 :::

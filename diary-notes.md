@@ -1,6 +1,6 @@
 Timwaskett: Oh nice!  Yeah, that was a fun project, I'll poke my head in if you'd like any input.
 
- Theme of people being divided in two categories could be interpreted variously relating to many social phenomena.  the theme of a group being divided into two subgroups could be interpreted in many different ways. Nothing will be stated explicitly, leave open to imagination. A good satirist never spells it out.
+ Theme of people being divided in two categories could be interpreted variously relating to many social phenomena.  the theme of a group being divided into two subgroups could be interpreted in many different ways. Nothing will be said explicitly, leave open to imagination. There are a few clues to my interpretation in game and a few more in code. A good satirist never spells it out.
 
 PigeonWhole
 + ball falls down centre of screen, deflect to score
@@ -107,6 +107,7 @@ June
 + harder moves to lead, through pen and respawns
 
 20 July
++ piper trail sheep nearby, not attached unlike hat
 
 21 July
 + spin face, also wobble
@@ -134,7 +135,14 @@ June
 
 27 July
 + at least no violence on screen
++ unsorted sheep colour palegrey and cannot be resorted
++ add 4th value to sheep.team
++ rogue liberates sheep from pen
 + tracks destroyable by vRogue who moves up to top, and exit screen
++ player UI learning sequence & menu option to skip
++ remember what player has done & seen
++ someone who never played videogame should know without confusion
++ to highlight tiles need 5px buffer around canvas
 ?shunt centre on point ahead? Send to Dr B Anderson.
 
 28 July
@@ -142,6 +150,9 @@ June
 + rogue function unsort, test collision with all sheep (like spaceBattle)
 + learning sequence - where player, how move, what can do? signif teams, where's goal; how score, how beckon, 
 + how write new values into Grid ?
++ hat can screenwrap if not beckoning or clamping, will need hat.state
++ face demo should spin 1 face randomly a few rotations
++ pic with interesting lower half, for Trello
 
 29 July
 + look thru Itch for my contributions
@@ -160,3 +171,10 @@ June
 + game over screen if completed all levels?
 + EditMode? wander toggle
 + visual area tile design tool
+
+1 August
++ GIF OotH scattering
++ stat for each sheep e.g. tired?
++ how make a tile single-use?
++ book has spritesheet example 
++ look at Kenyon Pizza dropping pieces
