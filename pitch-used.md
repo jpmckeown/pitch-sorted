@@ -19,6 +19,8 @@ Placeholder art for the player icon is a Sorting Hat because it reminded me of s
 
  or into a lorry or a truck. Once rightly penned they are "sorted".
 
+ + Shrek onion gif. Polyvalence Early version was call pigeonhole and balls not sheep theme pigeonholing people into categories, divide peopl into categ, but can play the game for fun without realising any meaning. Insp layers AF really is about farm e g seasonal cycle agri with harsh winter. And also a social parable
+
 ## Notes from slides
 
 ## Levels

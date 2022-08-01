@@ -5,10 +5,15 @@ D: Video
 OBS = raw recordings
 
 ## crop dimensions
+ClipChamp crops and filesize compact
+
+## recording
+audio OBS filter on mainmic
+also if mic/aux on will need -25dB
 
 ## concatenate video files
-express.adobe.com/tools/merge-videos (free, online)
-clipchamp, local, export merge is slow
+X huge file - express.adobe.com/tools/merge-videos (free, online)
+clipchamp, local, export merge is slow, compact size
 
 
 Options: veed.io 
@@ -23,7 +28,7 @@ EzGif convert & crop dimensions
 EzGif pause on first & last frames
 
 Workflow for demo, trello, slides
-OBS crop
+OBS crop keeping 16:9, don't use Fit to screen(canvas)
 OBS transform cropped area to 1080p
 OBS audio mic & camera on
 Photos trim duration

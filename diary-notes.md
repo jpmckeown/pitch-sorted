@@ -169,8 +169,6 @@ June
 + look thru Itch for my contributions
 + pitch cover add video of level with all elements OR video of Hat transform sheep
 + Frogger not Insp? avatar cross field, 1 frog per pen
-+ Amitheball? A quote I saw in Chris' writings, conventional to Identify w active icon eg paddle, but perhaps shift Identify w ball, aiming for subtle hints in game that sheep don't want to leave farm 
-+ Shrek onion gif. Polyvalence Early version was call pigeonhole and balls not sheep theme pigeonholing people into categories, div peopl into categ, but can play the game for fun without realising any meaning. Insp layers AF really is about farm e g seasonal cycle agri with harsh winter. And also a social parable
 + mumbly voice farmer (like in Shaun)
 + Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, https://www.thebigfixup.co.uk/
 

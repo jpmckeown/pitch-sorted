@@ -30,3 +30,13 @@ Week : level 9 completed
 Weeks : playtesting
 
 Weeks : polishing and bug-fixing
+
+
+
+:::: {.columns}
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+::::
