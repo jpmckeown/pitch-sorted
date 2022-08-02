@@ -6,10 +6,10 @@ format:
     auto-play-media: true
 css: styles.css
 editor: visual
-slide-number: true
+slide-number: false
 ---
 
-## Sorted
+## Sorted - for Hometeam Outpost
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -17,7 +17,7 @@ JS for HTML5 Canvas
 
 Pitch: 7 August, 2022
 
-Release: 9 October, 2022
+Release: 23 October, 2022
 
 Patrick McKeown
 
@@ -31,14 +31,14 @@ Patrick McKeown
 ::::
 
 ::: {.notes}
-Hi Hometeam, this is Patrick, and I'm pitching SORTED, a Javascript game releasing on 9th October.
+Hi Hometeam Outpost, this is Patrick, and I'm pitching SORTED, a Javascript game releasing on 23rd October.
 :::
 
-## About me
+## HomeTeam XP
 
 5x gamechanger
 
-Contributed to 12 games
+Contributed to 11 games
 
 ![](img/tree1.png){.absolute top="48%" left="29%" width=192 height=192}
 
@@ -61,14 +61,14 @@ Contributed to 12 games
 ![](GIF/gem-1.gif){.absolute top="82%" left="50%" width="96" height="96"}
 
 ::: {.notes}
-I have contributed to 11 HomeTeam Outpost games, mostly with sound effects (synthetic or recorded), also a few sprites, shapes, and writing.
+I have contributed to 11 HomeTeam games, mostly with sound effects (some synthetic, others recorded and filtered), also a few sprites, shapes, and writing.
 :::
 
 ## About me
 
 :::: {.columns}
 ::: {.column width="50%"}
-This is my first time pitching a Hometeam game.
+My first time pitching a Hometeam game.
 :::
 
 ::: {.column width="50%"}
@@ -77,33 +77,25 @@ This is my first time pitching a Hometeam game.
 ::::
 
 ::: {.notes}
-This is my first time pitching a Hometeam game. Years ago I made a 4-player "House-hunting game" to help Geography students learn about GIS.
+This is my first time pitching a game for Hometeam. Years ago I made a 4-player computerised game called "House-hunting" to help Geography students learn about GIS.
 :::
 
 ## Overview
 
-"Sorted" is a comedy puzzle game. The player tries to move sheep into a holding pen, and terrain tiles affect movement of the sheep.
+"Sorted" is a comedy puzzle game. The player sends sheep toward a pen, and terrain affects their movement.
 
 ::: {.notes}
-In the BBC TV program "One Man and His Dog" competitors move sheep around obstacles and into a pen. Sorted is a bit like that. Each level will have a map designed using terrain tiles which differently affect sheep movement. The game genre is comedy puzzle, and relaxed.
+In the BBC TV program "One Man and His Dog" competitors move sheep around obstacles and into a pen. Sorted is a bit like that. Each level will have a map designed with terrain tiles which differently affect sheep movement. The game genre is comedy puzzle, and relaxed.
 :::
 
-## Inspirations
+## Vision - sheepdog competition
 
-![](video/1MahD-4-Pen-Trim.mp4){.absolute left=0 top=170 width=800 height=450}
+"Lift", "Crossdrive", "Shedding" and "Singling", "Penning" 
 
-::: {.notes}
-In the BBC TV program "One Man and His Dog" the competitors move a flock of sheep around obstacles and finally into a pen.
-:::
-
-## "One of the Herd"
-
-by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
-
-![](GIF/ezgif_OneOfTheHerd_Level_3.gif){.absolute left=0 top=200 width=600 height=338}
+!["One man and his dog" BBC](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320"}
 
 ::: {.notes}
-Demo: overhead 2D view, occasional wandering, each level gets fresh set of sheep, peaceful minimal violence. Not imitating One of the Herd clever algorithms for sheep being repelled by herder so if you move too fast or too close they scatter. Also flocking between sheep. Sorted game won't attempt imitate that realism, so looking for other mechanisms.
+What inspired this game pitch? Some sections of herding competitions called "Lift", "Crossdrive", "Singling", and "Penning". shedding sorts sheep into two separate groups. 
 :::
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}
@@ -115,87 +107,120 @@ On upland farms you often see sheep painted with different colours. It can signi
 ## Inspiration {background-image="img/smart-elevated-clamp.jpg" background-color="black"}
 
 ::: {.notes}
-One at a time, to be assessed and painted sheep will go up into a clamp that holds them steady. High-end clamps have up and down ramps and this inspired the game mechanics beckon, paint, and drop.
+One at a time, to be assessed and painted sheep will go up into a clamp that holds them steady. High-end clamps have up and down ramps and that inspired this game's mechanics call, paint, drop and send.
 :::
 
 ## Inspiration {background-image="img/elevated-clamp.jpg"}
 
-![](img/sortingHat.jpg){.absolute left=920 top=480 width="225" height="225"}
+![](img/sortingHat-removebg.png){.absolute left=-100 top=80 width="225" height="225"}
+
+![](img/red-branding-paint.jpg){.absolute left=1040 top=50 width="238" height="212"}
 
 ::: {.notes}
 The player's icon symbolically represents the clamp and the farmer combined. The placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
 :::
 
-## "Am I the ball?"
+## Inspiration - "One of the Herd"
+
+by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+
+![](GIF/ezgif_OneOfTheHerd_Level_3.gif){.absolute left=0 top=200 width=600 height=338}
 
 ::: {.notes}
-A quote in Chris' writings that strick me, conventional for player to identify with active avatar e.g. the paddle or hat, but by end player maybe identifies with ball or sheep. The game will give hints, especially in soundfx, that the sheep don't want to leave the farm. 
+The videogame inspiring this is "One of the Herd" by Tim Waskett. overhead view, the blue hat is the farmer, and his movement drives the sheep. Inspirations inlcude sheep wandering when not herded, each level gets fresh set of sheep, peaceful (except when sheep touch electric fence and explode). One of the Herd has clever algorithms for sheep being repelled away from herder so if you move too fast or too close they scatter to the sides. It also has flocking AI between sheep. Sorted won't attempt that realism, so I looked for other mechanisms.
 :::
 
-## "Animal Farm" 
+## moving down the board
+
+![](img/pigeonhole-1872-small.jpg){.absolute left=0 top=80}
+
+![](img/French-wood-pinball-small.jpg){.absolute left=450 top=80}
+
+![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=40 top=350}
+
+::: {.notes}
+Some wooden bagatelle boards are vertically inclined and drop a ball down through pins. Frogger moves from one side of the screen to the other aiming for a goal tile. Sorted uses that idea.
+:::
+
+## "Am I the ball?"
+
+![](img/shaun_house_660_319.webp){.absolute top=100 left=0 width=660 height=319}
+
+::: {.notes}
+A quote in Chris' writings that struck me is "Am I the ball?" it's conventional for the player to identify with the active avatar e.g. the paddle or the hat, but sometimes I may identify with the ball or sheep. Sorted will give hints, especially in soundfx, that the sheep don't want to leave the farm. 
+:::
+
+## Animal Farm 
 
 book by George Orwell, 
 
 and the 2021 Nerial game
 
-![](img/animalfarm-cover.jpg){.absolute top=100 left=0 width=631 height=358}
+![](img/animalfarm-cover.jpg){.absolute top=250 left=0 width=631 height=358}
 
 ::: {.notes}
-Earlier idea for a game was called Pigeonhole, with balls not sheep, and its theme was pigeonholing in human social relations. My aim is for a fun game that is also a silent parable, and an inspiration for that is the Animal Farm game based on George Orwell's book. 
+This pitch mutated from an earlier game idea called Pigeonhole featuring balls, and its theme was pigeonholing in human relations. I hope a fun game can also be a silent parable. An inspiration for that is the Animal Farm game based on George Orwell's book.
 :::
 
-## Demo prototype
-
-::: {.notes}
-:::
-
-## Mechanisms
-
-"Frogger"
-
-![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=500 top=50 width="336" height="286"}
-![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
-
-::: {.notes}
-Frogger moves from one side of the screen to the other where the frog fits into a goal tile.
-:::
-
-## Game Vision
-
-Novice videogame player not confused
-
-Peaceful (at least, no violence on screen)
-
-Relaxed pace
-
-Overhead 2D
+## to the Demo
 
 ::: {.notes}
 :::
 
-## Game Look
+## Game Vision & Look
 
-![](img/sortingHat.jpg)
-![](img/art_1.jpg)
+Pace: slow, relaxed
 
-![](img/shaun.jpg){.absolute top="10%" left="55%" width="299" height="168"}
+Perspective: overhead 2D
 
-Art: kids cartoon style
+Art style: kids cartoon
 
-Palette: sonic-robo-blast-2-v22
+Palette: fixed 256 colours
+
+![](img/shaun.jpg){.absolute left="55%" top="10%" width="299" height="168"}
+
+::: {.notes}
+Relaxed pace, peaceful, overhead 2D.
+I looked for a palette with long consolidated ramps for each of primary and secondary colours and chose sonic-robo-blast-2-v22
+:::
+
+## Characters
+
+Sorting Hat
+
+Sheep
+
+Rogue (can unSort)
+
+![](img/sortingHat.jpg){.absolute left="40%" top="5%"}
+
+![](img/art_1.jpg){.absolute left="65%" top="15%"}
+
+![](img/bitzer-dog-horror-small.png){.absolute left="5%" top="44%"
+}
 
 ::: {.notes}
 :::
 
-## Tile set
+## Terrain Tiles
 
-Deflect: right or left, maybe weak or strong
+:::: {.columns}
+::: {.column width="50%"}
 
-Halt: lake, sheep stops and grazes
+Halt (lake): sheep stops and grazes
 
-Roam: sheep lose momentum and go into graze/wander mode
+Roam (wood): sheep begins wandering
 
-Unsort: rogue can return a sheep to its original condition. 
+Deflect: changes direction, to right or left
+
+:::
+
+::: {.column width="50%"}
+![](img/grass_opengameart.png){.absolute left="80%" top="10%" width=150 height=150}
+![](img/imgur_lake_mod.jpg){.absolute left="55%" top="10%" width=180 height=160}
+![](img/terrain-forest-fantasy-flight.png){.absolute left="55%" top="35%"}
+:::
+::::
 
 ::: {.notes}
 :::
@@ -213,29 +238,32 @@ Testing: level progress
 
 Art: terrain tiles, sheep
 
-VisualFX: sorting, calling
+VisualFX: e.g. sorting, calling
 
 ::: {.notes}
-I am especially looking for help with music, art, and visual effects.
+I am especially looking for help with music, art, and playtesting.
 :::
 
 ## Roles welcome
 
-Level design:
+Level design: tile grid, rogues placement
 
-SoundFX: sheep, hat-sorting
+SoundFX: e.g. sheep, hat-sorting
 
-Coding: sheep wander
+Coding: e.g. sheep wander
 
 ::: {.notes}
-Level design will be available. Editing is currently done through a number grid like in the Classic games.
+The code is based on the Classic Games Course following that style which will be familiar. SoundFX can be recorded or synthesised. Level design and editing is done through a number grid as in the Classic games. Trello cards give advice or please ask me.
 :::
 
-## Join the Sorted team!
+## Help me sort the sheep!
 
-Trello board is at
+Join the "sorted"" channel on Slack, and ask @Patrick for help with starting.
 
-![](video/1MahD-4-Pen-Trim.mp4){.absolute left=400 top=100 width=440 height=270}
+<video data-autoplay>
+<source data-src="video/InPen-OneManAndHisDog-930x510.mp4" type="video/mp4" />
+</video>
 
 ::: {.notes}
+Thanks, if you are interested please visit the Slack channel.
 :::

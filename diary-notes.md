@@ -175,7 +175,7 @@ June
 30 July
 + what makes level end? no sheep available to tractor
 + sheep sprite equal size head & body
-+ is there a minimum score to proress to next level?
++ is there a minimum score to progress to next level?
 + level ending screen?
 + game over screen if completed all levels?
 + EditMode? wander toggle
@@ -187,3 +187,10 @@ June
 + how make a tile single-use?
 + book has spritesheet example 
 + look at Kenyon Pizza dropping pieces
++ enlarge Frogger GIF display
++ retry video autoplay
++ extend to Oct 23
+
+2 August
++ roles, mention Classic Games code familiar
++ timing sections of past pitches

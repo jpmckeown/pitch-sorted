@@ -40,8 +40,7 @@ Later levels especially need testing to see if they can be completed fairly easi
 :::
 
 <video data-autoplay src="video/OneOfTheHerd_Level_3_Trim.mp4"></video>
-::: {.notes}
-:::
+
 flowerpot1 sheet is 128x64  fairy 183x91 table 57x44 
 IAT 320x240  rock 408 302
 
@@ -63,7 +62,7 @@ Weeks : playtesting
 
 Weeks : polishing and bug-fixing
 
-
+![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
 
 :::: {.columns}
 ::: {.column width="50%"}
