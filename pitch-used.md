@@ -1,4 +1,5 @@
 Split = https://www.youtube.com/watch?v=y2ReytB1SX4
+https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
 
 One of the Herd
 grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view, minimal violence.
