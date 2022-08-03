@@ -1,11 +1,15 @@
 ## Removed from pitch
-
+"One man and his dog" BBC
 X Lost: woods, sheep randomly change direction
 X Bounce: move in arc sideways (random L/R) slightly up and then down
 
 Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
 
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
+![](GIF/OotH-toPen-ez-optimized.gif){.absolute left=0 top=160 width=600 height=334}
+![](GIF/scatter-8s-ez-opt-crop.gif){.absolute left=0 top=100 width=600 height=301}
+
+
 
 ## Visual fx roles
 

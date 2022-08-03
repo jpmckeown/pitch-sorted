@@ -4,8 +4,12 @@
 D: Video
 OBS = raw recordings
 
+## trim length
+Clipchamp easy/visual, Ezgif meeses trim sometimes
+
 ## crop dimensions
-ClipChamp crops and filesize compact
+EzGif excellent crop
+ClipChamp seems to crop but leaves edges in
 
 ## recording
 audio OBS filter on mainmic

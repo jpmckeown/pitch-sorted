@@ -194,3 +194,6 @@ June
 2 August
 + roles, mention Classic Games code familiar
 + timing sections of past pitches
++ terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
++ video OotH scattering
++ 
