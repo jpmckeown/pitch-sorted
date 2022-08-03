@@ -20,6 +20,8 @@ Pitch: 7 August, 2022
 
 Release: 23 October, 2022
 
+Hometeam Outpost
+
 Patrick McKeown
 
 ![](img/blue_sheep.jpg){.absolute top="55%" left="0%" width="211" height="175"}
@@ -61,7 +63,7 @@ contributed to 11 games
 ![](GIF/gem-1.gif){.absolute top="82%" left="50%" width="96" height="96"}
 
 ::: {.notes}
-I've contributed in small ways to 12 HomeTeam games, mostly with sound effects (recorded, filtered, or synthetic), also a few sprites, shapes, and writing.
+I have contributed to 11 HomeTeam games, mostly with sound effects (recorded, voice filtered, and synthetic), also a few sprites, shapes, and writing.
 :::
 
 ## About me
@@ -163,7 +165,7 @@ How is the sorting done? One at a time, to be assessed and painted, sheep go int
 
 ![](img/sortingHat-removebg.png){.absolute left=-100 top=80 width="225" height="225"}
 
-![](img/red-branding-paint.jpg){.absolute left=1040 top=50 width="238" height="212"}
+![](img/red-branding-paint-removebg.png){.absolute left=580 top=500 width="238" height="212"}
 
 ::: {.notes}
 The player's icon symbolically represents the clamp and farmer combined. It's a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.

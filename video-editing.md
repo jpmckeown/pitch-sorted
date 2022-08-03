@@ -7,9 +7,14 @@ OBS = raw recordings
 ## trim length
 Clipchamp easy/visual, Ezgif meeses trim sometimes
 
-## crop dimensions
+## crop dimensions  
+https://recorder.itopvpn.com/blog/how-to-crop-screen-recording-576
+https://streamershaven.blog/creator-tools/obs-tutorials/only-capture-a-part-of-your-screen/
 EzGif excellent crop
-ClipChamp seems to crop but leaves edges in
+ClipChamp seems to crop but save leaves edges in?
+Mac Quicktime easy
+
+OBS add crop/pad filter with numbers, Preview -> Resize output (source size) + press Studio Mode twice // https://www.youtube.com/watch?v=_FVeqUtyclo // https://www.alphr.com/obs-crop-window/ // https://obsproject.com/forum/threads/despite-cropping-still-records-full-screen-but-black.56880/
 
 ## recording
 audio OBS filter on mainmic
@@ -45,9 +50,11 @@ redketchup.io/gif-resizer
 crop, resize, flip vertical/horizontal
 also remove frames (includes trim)
 
-Giphy
+Giphy capture (Mac)
 screentogif.com/
+Gyazo.com
 compressor.io
 Bandicam
+gifcap.dev
 
 Irish pen OMahD crop 76,188 1053,440
