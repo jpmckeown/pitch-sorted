@@ -12,6 +12,9 @@ Trello
 + mini GIFs or images in a grid e.g. 2 rows (see Eden Sky)
 + narrative & cutscenes = one category?
 
+Pitch
+multiple small gifs in rectangle on same screen
+
 Production
 + modular levels
 + sound for every event

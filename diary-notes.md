@@ -192,10 +192,11 @@ June
 + extend to Oct 23
 
 2 August
-+ roles, mention Classic Games code familiar
-+ timing sections of past pitches
+X+ roles, mention Classic Games code familiar
+X+ timing sections of past pitches
 + terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
-+ video OotH scattering
+X+ video OotH scattering
+
 
 3 August
 + trello warmup art: 
@@ -203,5 +204,13 @@ June
 
 4 August
 + portraits: hat, sheep, rogue, 
-
++ Faraway tree montage
++ where is my collection HH pics?
++ make sheepdog trials videos into GIFs
+X+ level editor maintaining newline?
+X+ book meeting with Karen for level design and Liz for UX
+X+ in-game tutorial
+X+ when hover game features UI popup?
+X+ rogue's story
+X+ extend to October 30
 
