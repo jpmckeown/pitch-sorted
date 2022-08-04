@@ -1,3 +1,5 @@
+::: {.notes}
+:::
 ## Removed from pitch
 "One man and his dog" BBC
 X Lost: woods, sheep randomly change direction
@@ -45,8 +47,6 @@ The prototype is built on Chris DeLeon's Javascript tutorials, and will keep to 
 ## Testing roles
 
 Later levels especially need testing to see if they can be completed fairly easily.
-::: {.notes}
-:::
 
 <video data-autoplay src="video/OneOfTheHerd_Level_3_Trim.mp4"></video>
 

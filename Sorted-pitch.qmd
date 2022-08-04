@@ -10,7 +10,7 @@ editor: visual
 slide-number: false
 ---
 
-## Sorted!
+## Sorted! 
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -201,7 +201,7 @@ and the 2021 Nerial game
 ![](img/animalfarm-cover.jpg){.absolute top=250 left=0 width=631 height=358}
 
 ::: {.notes}
-This pitch originated from an earlier game idea called Pigeonwhole which featured billiard balls and table pockets, and its theme was the pigeonholing of people. I hope a game can be fun and also a nonverbal allegory. An inspiration for that is the recent Animal Farm game based on George Orwell's book.
+This pitch originated from an earlier game idea called Pigeonhole which featured billiard balls and table pockets, and its theme was putting people into two pigeonholes. Moving to Sorted, when I was exploring pied piper mechanism I considered a 2-player version with a piper for each team but realised no I don't want to push players into identifying with one or other team: the Hat is neutral, it just wants to get both lorries filled. I hope a game can be fun and also a nonverbal allegory open to many different interpretations. An inspiration for that is the recent Animal Farm game based on George Orwell's book. 
 :::
 
 ## Look & Feel
@@ -238,6 +238,7 @@ Rogue (can unSort)
 
 ::: {.notes}
 You play the hat, opponent is the rogue.
+For some events or moments in game there will be a contrast between particle fx and sound fx. Particle effects will show the farmer's perspective, and soundfx will show the rogue's perspective. For example when sheep arrives at correct goal, little celebratory particles, and alarmed bleat from sheep.
 :::
 
 ## Terrain Tiles
@@ -247,12 +248,11 @@ You play the hat, opponent is the rogue.
 
 Halt (lake): sheep stops and grazes
 
-Roam (wood): sheep begins wandering
+Roam (wood): sheep begins wandering/roaming
 
-Deflect: changes direction, to right or left
+Deflect (curved path): change direction
 
-Goals: lorry-ramps, blue and red
-
+Goals (ramps): tinted blue or red
 :::
 
 ::: {.column width="50%"}
@@ -263,6 +263,7 @@ Goals: lorry-ramps, blue and red
 ::::
 
 ::: {.notes}
+Tiles will be named by effect on sheep e.g. Halt, Roam, Deflect, Goal. The art doesn't have to be a lake, wood, etc. But nice to have a story e.g. the lake shore has tasty plants growing which tempt the sheep to stop and graze; in the wood/copse the sheep loses its way and starts roaming. Deflect can be a bending path, maybe has to be followed because in that tile off-path there are thorny brambles.    
 :::
 
 ## to the Trello!
@@ -296,7 +297,9 @@ SoundFX: e.g. sheep, hat-sorting
 Coding: e.g. sheep wander
 
 ::: {.notes}
-The code is based on the Classic Games Course following that style which will be familiar. Level design and is through a number grid as in the Classic games. SoundFX for UI events can be various boops randomized from a synthesizer. Other soundFX should be designed or recorded and filtered. Trello cards give advice or please ask me.
+The code is based on the Classic Games Course following that style which will be familiar. 
+Level design is a tile map (edited with a number grid as in the Classic games), sheep placement (currently each sheep is randomly placed in the top quarter of play area to make Calling easy but they could start anywhere), and rogue path loop. Perhaps sheep could be placed in bunches.
+SoundFX for UI events such as menu choice can be random sounds from a synthesizer. Other soundFX should be recorded and perhaps filtered. Trello cards give advice or please ask me.
 :::
 
 ## Help me sort the sheep!
