@@ -1,9 +1,7 @@
 Timwaskett: Oh nice!  Yeah, that was a fun project, I'll poke my head in if you'd like any input.
 
- Theme of people being divided in two categories could be interpreted variously relating to many social phenomena.  the theme of a group being divided into two subgroups could be interpreted in many different ways. Nothing will be said explicitly, leave open to imagination. There are a few clues to my interpretation in game and a few more in code. A good satirist never spells it out.
-
 PigeonWhole
-+ ball falls down centre of screen, deflect to score
+X+ ball falls down centre of screen, deflect to score
 + matching eg get red ball in red pocket
 + aim eg rotate makes it easy to hit target OR cross-hair moved with arrow keys OR binary aim toggle left/right
 + APC5 rotates cannon with mouse, dashed line to target
@@ -43,11 +41,11 @@ Theme = tribalism
 + tally events and score for each ball separately
 + rejection: links to other balls in group initially form, but they puff particles at misfit ball, then links dissolve and misfit falls 
 + before sort ball covered in swirling thick misfit+ confrmist mode, balls of diff colour also has asociated shape etc but later...
-+ dont need to hit other ball at far end, if near a bond forms but less score if distant (la Boule)
++ dont need to hit other ball at far end, if its near a bond forms but less score if distant (la Boule)
 Ball score = linked, accepted, events en route 
 
 April
-+ can you launch another ball while one still on its way (yes)
++ can you launch another ball while one still on its way (yes, collision between sheep will stop other going in clamp until first left)
 + at start show close-up image of Hat, sheep, goals
 + a 2nd colour on ball, spots or stripes
 + hat agitated (more jiggling) if impure sort
@@ -72,18 +70,19 @@ June
 + tint sprite colour via Js
 + health or happy bars for sheep?
 
-1st July
+1 July
 + random walk, triangle draw
 
 11 July
 + OotH facing for sheep, only go forward, sometimes wiggle
-+ pull animation SB suggested a dog
++ pull/call animation SB suggested a dog
 
 13 July
 + tutorial anim/vid Hat move, beckon, popup highlights arrow keys
 + each level could have different background
+
 14 July
-+ how to comsine gotoXY and randomWalk i.e. travel down with some sideways wandering (and occasional upward reversals?)
++ how to combine gotoXY and randomWalk i.e. travel down with some sideways wandering (and occasional upward reversals?)
 + sheep collision blocks movement (tried isOverlapPoint in spaceBattle code but quickly they stick together in small clumps)
 + if any background changes in-game, tiles better than bitmap
 + mouse control for Hat, use gotoX like in RTS (move there at normal speed) not like Tennis (following mouse cursor)
@@ -99,7 +98,6 @@ June
 + particles celbrate arrival of sheep in pen
 + face happy turns to sad in pen (discordance)
 + in pen, stop walk, some jiggling?
-+ face can spin or oscillate to show confusion
 
 18 July
 + separate scoring screen, like in SafeCode 
@@ -115,33 +113,31 @@ June
 21 July
 + angle of graphic separate from facing
 + face should mostly stay upright unaffected by movement
-+ spin face, also wobble oscillate
++ spin face, also wobble oscillate, to show confusion
 + sleeping sheep lies on it side, eyes closed
-+ put ID label inside circle/sheep
+X+ put ID label inside circle/sheep
 + fence around a protected tree (made png)
-+ happy music until first sort, then ominous
+X+ happy music until first sort, then ominous
 + at end of game (Quit cutscene) all sheep escape from pens, turn white, and happy music plays
 + "sorting hat is a purple herring"
 + ?adapt WindyBalloons, drop things on tres?
 
 22 July
-+ "
 + If sheep reach middle bottom (or sides?) they leave map (then stop & delete?) not available for Beckon.
 + beckon soundfx is piping
 + while beckon some wandering random % influence
 + long range beckon takes longer to work, soundfx queiter?
 
 23 July
-+ one lot for lamb chops, other for petfood, or 2 contracctsgoing in diferent lorry
++ one lot for lamb chops, other for petfood, or 2 contracctsgoing in diferent lorry X+ one lot for lamb chops; other lot for mutton
 + alert error when image name wrong
 
 26 July
-+ Shaun slapstick, wild movement, spinning, visual comedy
+X+ Shaun slapstick, wild movement, spinning, visual comedy
 + Top row horizontal railway tracks emphasises hat cannot move down, 27th initially only 2 tiles each side, when hat moves more track laid ahead of it: homage to W&G Wrong Trousers;
 + early levels most errors miss both, because pens get bigger in later levels more arrivals in "The Wrong Lorry" (W&G)
-+ one lot for lamb chops; other lot for mutton
-+ level-state Save needed
-+ avoided 2-player version (pied pipers) because dont want to encourage player to support either team. 
+X+ level-state Save needed
+X+ avoided 2-player version (pied pipers) because dont want to encourage player to support either team. 
 + Shaun dog wears a het, but no, dog is against sort
 
 27 July
@@ -157,7 +153,7 @@ June
 ?shunt centre on point ahead? Send to Dr B Anderson.
 
 28 July
-+ Sequence of inspiration: OneOfHerd, early bagatelle ball drop, Amitheball? Animal Farm
+X+ Sequence of inspiration: OneOfHerd, early bagatelle ball drop, then Vision = Amitheball? Animal Farm
 + rogue function unsort, test collision with all sheep (like spaceBattle)
 + learning sequence - where player, how move, what can do? signif teams, where's goal; how score, how beckon, 
 + how write new values into Grid ?
@@ -166,11 +162,11 @@ June
 + pic with interesting lower half, for Trello
 
 29 July
-+ look thru Itch for my contributions
-+ pitch cover add video of level with all elements OR video of Hat transform sheep
-+ Frogger not Insp? avatar cross field, 1 frog per pen
+X+ look thru Itch for my contributions
+X+ pitch cover add video of level with all elements OR video of Hat transform sheep
+X+ Frogger not Insp? avatar cross field, 1 frog per pen
 + mumbly voice farmer (like in Shaun)
-+ Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, https://www.thebigfixup.co.uk/
+X+ Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, https://www.thebigfixup.co.uk/
 
 30 July
 + what makes level end? no sheep available to tractor
@@ -182,32 +178,31 @@ June
 + visual area tile design tool
 
 1 August
-+ GIF OotH scattering
-+ stat for each sheep e.g. tired?
-+ how make a tile single-use?
-+ book has spritesheet example 
+X+ GIF OotH scattering
+X+ stats for each sheep e.g. tired?
+X+ how make a tile single-use?
+X+ book has spritesheet example 
 + look at Kenyon Pizza dropping pieces
-+ enlarge Frogger GIF display
-+ retry video autoplay
-+ extend to Oct 23
+X+ enlarge Frogger GIF display
+X + retry video autoplay (failed, use GIFs)
+X + extend to Oct 23
 
 2 August
 X+ roles, mention Classic Games code familiar
 X+ timing sections of past pitches
-+ terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
+X+ terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
 X+ video OotH scattering
 
-
 3 August
-+ trello warmup art: 
-+ mood countryside pictures
+X+ trello warmup art: 
+X+ mood countryside pictures
+X+ Faraway tree montage
+X+ level editor maintaining newline?
+X+ make sheepdog trials videos into GIFs
 
 4 August
-+ portraits: hat, sheep, rogue, 
-+ Faraway tree montage
-+ where is my collection HH pics?
-+ make sheepdog trials videos into GIFs
-X+ level editor maintaining newline?
+X+ portraits: hat, sheep, rogue, 
+X+ where is my collection HH pics?
 X+ book meeting with Karen for level design and Liz for UX
 X+ in-game tutorial
 X+ when hover game features UI popup?

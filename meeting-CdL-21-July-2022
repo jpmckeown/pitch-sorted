@@ -2,7 +2,7 @@ P: inspired by One of the Herd (OotH); mechanisms to move sheep, repel and flock
 
 C: affect move e.g. conveyor-belt, Frogger, Lemmings, Paggle.
 a tile that disappears once used e.g. flower.
-if moving objects need a timer for when/where it appears.
+X if moving objects need a timer for when/where it appears.
 
 C: sprite sheets example put all art in one image strip.
 sprites help show mood emotion of sheep.

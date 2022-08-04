@@ -9,16 +9,17 @@ Update videos
 Trello
 + label not designed yet (ask me first) yellow
 + backward plan from end target
-+ mini GIFs or images in a grid e.g. 2 rows (see Eden Sky)
 + narrative & cutscenes = one category?
++ smaller images for Trello cards
++ decide between openable notes or all text on front of card
 
 Pitch
-multiple small gifs in rectangle on same screen
++ multiple small gifs in rectangle on same screen
 
 Production
 + modular levels
 + sound for every event
-+ up to you but helpful please upload production file e.g. Aseprite, Audacity
++ up to you but helpful please upload production file e.g. Aseprite, Audacity (in guidelines)
 
 
 
