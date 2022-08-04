@@ -1,7 +1,10 @@
-+ move BBC clip to final slide
-
+Ideas
 + video of sheep in clamp being painted
-+ video of OotH two hats
++ say 2 weeks per level
++ explain focus of each week
++ say "air/breathing space" later levels
++ at end say it will change
+
 
 # Ideas from other game pitches
 

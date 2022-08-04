@@ -1,5 +1,14 @@
 Split = https://www.youtube.com/watch?v=y2ReytB1SX4
 https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
+Irish guys https://www.youtube.com/watch?v=y2ReytB1SX4
+overhead https://www.youtube.com/watch?v=7izAkccWrng
+big floxck https://www.youtube.com/watch?v=c0RPRWlSrws
+https://store.steampowered.com/app/1282380/Come_Bye_A_Sheepdog_Simulator/
+1983 http://www.bbcmicro.co.uk/game.php?id=3155
+large fields https://www.youtube.com/watch?v=QWAtcfXSyoE
+singling https://www.youtube.com/watch?v=qoL4O0t8uQI
+
+![](GIF/hats-title-9s-ezgif.gif){left=0 top=100 width=1024 height=218}
 
 One of the Herd
 grazing and wandering sheep, new level with fresh set of sheep, overhead 2D view, minimal violence.
@@ -63,3 +72,6 @@ Space = wandering AI, collision between objects
 
 RTS = gotoXY, connector lines
 Plan is for nine levels. Early levels are simple and serve as tutorial. 
+
+Done
++ video of OotH two hats

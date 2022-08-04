@@ -196,4 +196,12 @@ June
 + timing sections of past pitches
 + terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
 + video OotH scattering
-+ 
+
+3 August
++ trello warmup art: 
++ mood countryside pictures
+
+4 August
++ portraits: hat, sheep, rogue, 
+
+
