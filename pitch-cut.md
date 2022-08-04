@@ -1,5 +1,7 @@
 ::: {.notes}
 :::
+3rd: I moved Vision from 1st to middle 3rd piece, so you have already seen most of this. I will be redoing this one this evening but uploading it now to complete set of 5 pieces https://youtu.be/PJI9YcPAvQc
+
 ## Removed from pitch
 "One man and his dog" BBC
 X Lost: woods, sheep randomly change direction
@@ -8,6 +10,9 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
 
 Covrer: right ![](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320"}
+<video data-autoplay>
+<source data-src="video/InPen-OneManAndHisDog-930x510.mp4" type="video/mp4" />
+</video>
 
 ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
 ![](GIF/OotH-toPen-ez-optimized.gif){.absolute left=0 top=160 width=600 height=334}
