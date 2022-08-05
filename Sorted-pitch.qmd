@@ -18,7 +18,7 @@ JS for HTML5 Canvas
 
 Pitch: 7 August, 2022
 
-Release: 23 October, 2022
+Release: 30 October, 2022
 
 Hometeam Outpost
 
