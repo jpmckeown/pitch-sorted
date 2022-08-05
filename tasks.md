@@ -4,10 +4,8 @@ PITCH:
 + Lorry placeholder is stretched car, map grid marks front or back of lorry
 + Round ends when all sheep at bottom or road fence, which implies Hat cannot recall up from fence (too far)
 + at end round, 1 piper appears centre bottom & pipes sheep into gap
-+ Before departing lorry reverse to scoop sheep from road - goal ramps also move? is only time blue and red come together.
 + for Pitch animate this vision with drawing tool on screenshot of game map base, dragging sheep, piper and lorries by hand
 
-+ video of sheep in clamp being painted
 demo and roles videos are OK
 
 Inspiration:

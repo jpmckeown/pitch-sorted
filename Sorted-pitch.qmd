@@ -181,7 +181,15 @@ The player symbolically represents the clamp and the farmer combined. And the pl
 ![](img/tile_pen_red.png){.absolute left=893 top=382 width=80 height=80}
 
 ::: {.notes}
-Not enough space on goal tile for lots of sheep to sit, so when next sheep arriving at goal the one already there move up ramp into waiting lorry (off-screen, I think). Then at end of a level the last sheep on goal/ramp goes off-screen, engine noise lorry departs.
+Making space for UI in bottom row, there's only one of each goal tile, and it leads to ramp of a waiting lorry.
+:::
+
+## Vision
+
+![](video/level-ending-crop-halfsize.mp4)
+
+::: {.notes}
+A level ends when all sheep have reached bottom of screen, in goal tile or at road fence. Points awarded for each sheep, highest score if on correct goal, otherwise depends on how far from centre of screen. Then a piper appears at centre and hearing piper's tune sheep at the fence move to gap and into lorry. Once full the lorry drives off.
 :::
 
 ## "Am I the ball?" - Vision

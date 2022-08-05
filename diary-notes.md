@@ -199,6 +199,7 @@ X+ mood countryside pictures
 X+ Faraway tree montage
 X+ level editor maintaining newline?
 X+ make sheepdog trials videos into GIFs
+X+ video of sheep in clamp being painted, not found
 
 4 August
 X+ portraits: hat, sheep, rogue, 
