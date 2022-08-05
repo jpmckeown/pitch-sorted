@@ -11,8 +11,8 @@ demo and roles videos are OK
 Inspiration:
 + Faraway tree montage
 + where is my collection HH pics?
-+ enlarge Frogger GIF display
-+ in Move say considered turn based, gif 1983 game
+X+ enlarge Frogger GIF display
+X+ in Move say considered turn based, gif 1983 game
 + pitch cover add video/GIF of level with all elements OR video of Hat transform sheep OR sheep trials
 
 Vision:
@@ -66,3 +66,7 @@ MAYBE:
 + how make a tile single-use?
 
 + Sorting sheep is tinged with sadness if the sort is for going to market. Later levels bring out the downside of sorting, for example a sheep may be marked with two colours (like Harry Potter being Slytherin) or terrain may change sheep colour, or a sheep may fluctuate between colours.
+
+Sorted game mechanics will give clues that the sheep don't like being divided.
+
+Moving to Sorted, when I was exploring pied piper mechanism I considered a 2-player version with a piper for each team but realised no I don't want to push players into identifying with one or other team: the Hat is neutral, it just wants to get both lorries filled. 

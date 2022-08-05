@@ -29,11 +29,13 @@ Patrick McKeown
 :::
 
 ::: {.column width="50%"}
+![](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320" fig-align="left"}
 :::
 ::::
 
 ::: {.notes}
-Hi Hometeam Outpost, this is Patrick, and I'm pitching SORTED, a Javascript game releasing on 23rd October.
+Hi Hometeam Outpost, this is Patrick, and I'm pitching SORTED, a Javascript game releasing on 30th October.
+The video shows a flock being divided into two parts, which is the player's goal in this game.
 :::
 
 ## HomeTeam XP
@@ -63,7 +65,7 @@ contributed to 11 games
 ![](GIF/gem-1.gif){.absolute top="82%" left="50%" width="96" height="96"}
 
 ::: {.notes}
-I have contributed to 11 HomeTeam games, mostly with sound effects (recorded, voice filtered, and synthetic), also a few sprites, shapes, and writing.
+I've contributed to 11 HomeTeam games, mostly with sound effects (recorded, voice filtered, or synthesized), also a few sprites, shapes, and writing.
 :::
 
 ## About me
@@ -89,7 +91,7 @@ It's my first time pitching a game for Hometeam. Years ago I made a 4-player gam
 ![](img/demo-L4-crop-resize60.png){left=0 top=160 width=600 height=430}
 
 ::: {.notes}
-The player seeks to get the sheep to move to a goal. First the player calls a sheep up, sorts it to blue or red, and then sends the sheep down aiming for the associated goal. Each level will be designed using terrain tiles which differently affect sheep movement. The genre is comedy puzzle.
+What kind of game is Sorted? The player moves sheep to a goal, one at a time by first calling a sheep up and then sending it down. Terrain tiles affect sheep movement in various ways. The genre is comedy puzzle.
 :::
 
 ## Inspiration
@@ -99,7 +101,7 @@ The player seeks to get the sheep to move to a goal. First the player calls a sh
 ![](GIF/OotH-toPen-ez-optimized.gif){left=0 top=160 width=900 height=501}
 
 ::: {.notes}
-The game inspiring this project is "One of the Herd" by Tim Waskett. It gives an overhead view, so the hat shows the farmer whose movement is player-controlled and drives the sheep by repelling them.
+The game inspiring this project is "One of the Herd" by Tim Waskett. It gives an overhead view, so the hat shows the farmer whose movement is player-controlled and drives the sheep by repelling them until they reach a gate.
 :::
 
 ## Inspiration
@@ -109,7 +111,7 @@ The game inspiring this project is "One of the Herd" by Tim Waskett. It gives an
 "One of the Herd" by Tim Waskett
 
 ::: {.notes}
-Inspirations include that while not being herded the sheep move slightly and sometimes wander. Also that each level gets a fresh set of sheep. The hat influenced the player avatar, and the red and blue coincides with my colour scheme for Sorted.
+Inspirations include that when not being herded the sheep move slightly, sometimes wander, and mostly stay together. Also that each level gets a fresh set of sheep. The hat influenced Sorted's player avatar, and the red and blue coincides with the colour scheme.
 :::
 
 ## Inspiration
@@ -119,7 +121,7 @@ Inspirations include that while not being herded the sheep move slightly and som
 "One of the Herd" by Tim Waskett
 
 ::: {.notes}
-"One of the Herd" has clever AI so that when repelling sheep if the herder moves too fast or goes too close to the sheep, they scatter sideways. It also has flocking AI between sheep. This game will not attempt to copy that AI realism, so I looked for other ways for a player to influence sheep movement.
+"One of the Herd" has clever AI so that when driving sheep if the herder moves too fast or goes too close to the sheep, they scatter sideways. Not planning to copy that realism, so I looked for other ways to influence sheep movement. I considered attraction to a moving herder, like a Pied Piper of Hamelin, but that made the game too easy. So how to drive a sheep down the field?
 :::
 
 ## moving down the board
@@ -131,34 +133,35 @@ Inspirations include that while not being herded the sheep move slightly and som
 ![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=40 top=350}
 
 ::: {.notes}
-I considered attraction, like a Pied Piper of Hamelin, but when combined with a moving herder that made the game too easy. With the hat constrained to the top row I do use attraction for the hat Calling a sheep up to the clamp. Next, how to send a sheep downward? Frogger moves across the game area but is player-controlled, instead the sheep should be indirectly influenced. Some wooden bagatelle boards are vertically inclined and drop a ball down through pins toward pockets or pigeonholes. So that's the send mechanism.
+The sheep are not player-controlled unlike Frogger. Some bagatelle boards are vertically inclined and drop a ball down bouncing through pins to pockets or pigeonholes. So that's the drive send mechanism.
 :::
 
 ## Inspiration
 
-In sheepdog trials competitors move sheep and do actions with names including "Lift", "Crossdrive", "Shedding", "Singling", and "Penning".
+In sheepdog trials competitors do actions such as "Shedding", "Singling", "Lift", "Crossdrive", and "Penning".
 
-![Shedding from "One man and his dog" BBC TV](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320" fig-align="left"}
+![](GIF/singling-trim-crop.gif){width="800" height="289" fig-align="left"}
 
 ::: {.notes}
-As for the player purpose and scoring, it's inspired by sheepdog competitions which include actions called "Lift", "Crossdrive", "Shedding" (dividing a flock into two groups), "Singling" (separating one sheep from the flock), and "Penning". As seen on the BBC TV program "One Man and His Dog".
+sheepdog competitions which include actions called "Shedding" (dividing a flock into two groups), "Singling" (separating one sheep from the flock), "Lift", "Crossdrive", and "Penning". The video shows Singling and the hat's call is like that with an invisible sheepdog.
 :::
 
 ## to the Demo!
 
 ::: {.notes}
+Call is like "singling", Send is like "drive".
 :::
 
 ## Vision {background-image="img/red_blue_sheep.jpg" background-color="black"}
 
 ::: {.notes}
-On upland farms you often see sheep painted with different colours: red and blue are seen here. It can signify various things, but one use is after assessing a sheep. For example a farmer will want to identify barren ewes because the infertile cannot stay on the farm and must be separated out. An unrealistic version for the game could be a quality assessment with half qualifying to go to a supermarket, and the other half as mutton for petfood.
+Sheep are often painted with different colours, such as red and blue. It can signify various things, but one use is after assessing a sheep. For example a farmer will want to identify barren ewes because the infertile cannot stay on the farm and must be separated and sold off. An unrealistic version for the game could be a quality assessment with half qualifying to go to one supermarket, and the other half to a different market.
 :::
 
 ## Vision {background-image="img/smart-elevated-clamp.jpg" background-color="black"}
 
 ::: {.notes}
-How is sorting done? One at a time the sheep go into a clamp that holds them steady for assessment and painting. High-end clamps have up and down ramps and that helped inspire the vertical game mechanics call and send.
+How is that sorting done? One at a time the sheep go into a clamp that holds them steady for assessment and painting. High-end clamps have up and down ramps and that helped inspire the vertical game mechanics call and send.
 :::
 
 ## Vision {background-image="img/elevated-clamp.jpg" background-color="white"}
@@ -168,7 +171,7 @@ How is sorting done? One at a time the sheep go into a clamp that holds them ste
 ![](img/red-branding-paint-removebg.png){.absolute left=580 top=500 width="238" height="212"}
 
 ::: {.notes}
-The player symbolically represents the clamp and the farmer combined. And the player avatar is a Sorting Hat because its role reminds me of sorting a new pupil at Hogwarts School into one of the team houses.
+The player avatar symbolically represents the clamp and the farmer combined. I made it a Sorting Hat because its role reminds me of sorting a new pupil at Hogwarts School into one of the team houses.
 :::
 
 ## Vision
@@ -180,16 +183,32 @@ The player symbolically represents the clamp and the farmer combined. And the pl
 ![](img/tile_pen_blue.png){.absolute left=380 top=382 width=80 height=80}
 ![](img/tile_pen_red.png){.absolute left=893 top=382 width=80 height=80}
 
+![](asset/map_base_vision_low.png){.absolute left=0 top=500 width=1006 height=171}
+
 ::: {.notes}
-Making space for UI in bottom row, there's only one of each goal tile, and it leads to ramp of a waiting lorry.
+Along the bottom row I've put a road with a fence between it and the field. Each goal now has only one tile, imagined as leading to the ramp of a waiting lorry.
 :::
 
+## Vision
+
+![](asset/level-over-with-sheep.png)
+
+::: {.notes}
+A level ends when all sheep reach the bottom of screen, in a goal tile or at road fence.
+:::
+## Vision
+
+![](asset/level-over-with-scores-and-sheep.png)
+
+::: {.notes}
+Points gained for each sheep, the highest score if on correct goal, otherwise score depends on how far from horizontal centre.
+:::
 ## Vision
 
 ![](video/level-ending-crop-halfsize.mp4)
 
 ::: {.notes}
-A level ends when all sheep have reached bottom of screen, in goal tile or at road fence. Points awarded for each sheep, highest score if on correct goal, otherwise depends on how far from centre of screen. Then a piper appears at centre and hearing piper's tune sheep at the fence move to gap and into lorry. Once full the lorry drives off.
+Then from centre of road a pied piper appears and hearing piper's tune sheep at the fence move to gap and into lorry. Once full the lorry drives off.
 :::
 
 ## "Am I the ball?" - Vision
@@ -197,7 +216,7 @@ A level ends when all sheep have reached bottom of screen, in goal tile or at ro
 ![Shaun the Sheep, Aardman Animations, BBC](img/shaun_house_660_319.webp){width=660 height=319 fig-align="left"}
 
 ::: {.notes}
-A quote in Chris' writings that struck me is "Am I the ball?" it's conventional for the player to identify with the active avatar, here the hat, but sometimes that flips so I identify with the ball or, here, the sheep. Sorted game mechanics will give clues that the sheep don't like being divided. Also the rogue dog (like Bitzer on TV) doesn't want the sheep to leave the farm. 
+A quote in Chris' writings that struck me is "Am I the ball?" it's conventional for the player to identify with the active avatar, such as a paddle or hat, but sometimes that flips so I identify with the ball or, in this game, the sheep. Also the rogue dog (like Bitzer on TV's Shaun the Sheep) want the sheep to stay on the farm. 
 :::
 
 ## Animal Farm - Vision
@@ -209,7 +228,7 @@ and the 2021 Nerial game
 ![](img/animalfarm-cover.jpg){.absolute top=250 left=0 width=631 height=358}
 
 ::: {.notes}
-This pitch originated from an earlier game idea called Pigeonhole which featured billiard balls and table pockets, and its theme was putting people into two pigeonholes. Moving to Sorted, when I was exploring pied piper mechanism I considered a 2-player version with a piper for each team but realised no I don't want to push players into identifying with one or other team: the Hat is neutral, it just wants to get both lorries filled. I hope a game can be fun and also a nonverbal allegory open to many different interpretations. An inspiration for that is the recent Animal Farm game based on George Orwell's book. 
+This pitch originated from an earlier idea called Pigeonhole which featured billiard balls moved into one of two table pockets, and in my imagination it was about pigeonholing people. I hope a game can be fun and also a nonverbal allegory open to different interpretations. An inspiration for that is the recent Animal Farm game based on George Orwell's book. 
 :::
 
 ## Look & Feel
@@ -222,7 +241,7 @@ Art style: kids cartoon
 
 Palette: fixed 256 colours
 
-![](img/shaun.jpg){.absolute left="55%" top="10%" width="450" height="252"}
+![](asset/sonicroboblast.png)
 
 ::: {.notes}
 Relaxed pace, peaceful, 2D.
@@ -237,7 +256,7 @@ Sheep
 
 Rogue (can unSort)
 
-![](img/sortingHat.jpg){.absolute left="40%" top="5%"}
+![](img//sortingHat-removebg.png){.absolute left="40%" top="5%"}
 
 ![](img/art_1.jpg){.absolute left="65%" top="15%"}
 

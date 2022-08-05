@@ -8,6 +8,7 @@ https://store.steampowered.com/app/1282380/Come_Bye_A_Sheepdog_Simulator/
 large fields https://www.youtube.com/watch?v=QWAtcfXSyoE
 singling https://www.youtube.com/watch?v=qoL4O0t8uQI
 
+singling 800x289 As seen on the BBC TV program "One Man and His Dog".
 ![](GIF/hats-title-9s-ezgif.gif){left=0 top=100 width=1024 height=218}
 
 One of the Herd
