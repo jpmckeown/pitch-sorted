@@ -208,4 +208,21 @@ X+ in-game tutorial
 X+ when hover game features UI popup?
 X+ rogue's story
 X+ extend to October 30
++ From ramp Shep crook pull sheep in bottom row fenced stuck
 
+5 August
++ Only one tile goal, much space bottom row for UI
++ later rounds goals get further apart
++ Later levels electric fence at field sides
++ Lorry sideways on bottom row which is a road fenced on both sides or top only except middle, how wide is gap in fence?
++ Scoring when sheep reach bottom or at end of round?
++ Round ends when all sheep at bottom or road fence, which implies Hat cannot recall up from fence (too far)
++ may need special grass tile next to fence to stop Call
+No+ blue and red men arrive from wings 2nd row and push sheep to gap, and around into lorries
++ at end round, 1 piper appears centre bottom & pipes sheep into gap
++ Before departing lorry reverse to scoop sheep from road - goal ramps also move? is only time blue and red come together.
++ Peep peeep lorry reverse soundfx
++ for Pitch animate this vision with drawing tool on screenshot of game map base, dragging sheep, piper and lorries by hand
++ Lorry placeholder is stretched car
++ map grid marks back of lorry
++ separate grid for locating rogue 9, lorries 7&8, hat? piper? which can also store vales for single-use tiles 1-5 (Hat & Piper always in same place so grid marker not really needed)
