@@ -296,14 +296,12 @@ Tiles will be named by effect on sheep e.g. Halt, Roam, Deflect, Goal. The art d
 ## to the Trello!
 
 ::: {.notes}
-Readme.
-guidelines for art, sound, level design, and code. 
- also Tutorial for beginners, more detail than demo, showing player action, effect of different tiles in-game,  Mood board.  in each week a Mix of roles 
-two weeks between each level design
-Space in later weeks in case I am slower than expected. and conversely Extras in case we progress faster than anticipated.
-If you have any queries feel free to message me @Patrick
-If something is not here that you would like do to, please ask me to add a card. 
-At end: I will update the board weekly. 
+Readme. guidelines for art, sound, level design, and code. Mood board.
+in each week a Mix of roles but you can do things out of sequence
+two weeks between each level design, likely iterative
+Extras in case we progress faster than anticipated.
+any queries feel free to message me @Patrick
+If something is not here that you would like do to, please ask me to add a card
 :::
 
 ## Roles needed

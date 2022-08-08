@@ -9,7 +9,11 @@ X Bounce: move in arc sideways (random L/R) slightly up and then down
 
 Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
 
-Covrer: right ![](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320"}
+ also Tutorial for beginners, more detail than demo, showing player action, effect of different tiles in-game,
+Space in later weeks in case I am slower than expected. and conversely 
+At end: I will update the board weekly. 
+
+Cover: right ![](GIF/divide_flock_Churchmount_pause.gif){width="567" height="320"}
 <video data-autoplay>
 <source data-src="video/InPen-OneManAndHisDog-930x510.mp4" type="video/mp4" />
 </video>
