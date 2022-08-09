@@ -1,6 +1,11 @@
 field, halt, bendx2, roam, road, goal, rail
 hat, sheep, rogue, lorryx2
 
+- I am leaning away from overhead view because I am thinking of using sheep faces to show mood.
+
++ moving obstacles, maybe using 2nd grid for start positions
++ also a separate code on grid for patrol path ending, for rogue
+
 TASKS:
 + map grid marks front or back of lorry
 + if background terrain varies behind dog, one grid is not enough
