@@ -170,9 +170,8 @@ X+ Farmageddon "mutton bashing fun" Nintendo Home Sheep Home and 8 web games, ht
 
 30 July
 + what makes level end? no sheep available to tractor
-+ sheep sprite equal size head & body
+X+ sheep sprite equal size head & body
 + is there a minimum score to progress to next level?
-+ level ending screen?
 + game over screen if completed all levels?
 + EditMode? wander toggle
 + visual area tile design tool
@@ -221,8 +220,17 @@ N+ From ramp Shep crook pull sheep in bottom row fenced stuck
 + may need special grass tile next to fence to stop Call
 No+ blue and red men arrive from wings 2nd row and push sheep to gap, and around into lorries
 + at end round, 1 piper appears centre bottom & pipes sheep into gap
-+ Before departing lorry reverse to scoop sheep from road - goal ramps also move? is only time blue and red come together.
+??+ Before departing lorry reverse to scoop sheep from road - goal ramps also move? is only time blue and red come together.
 X+ for Pitch animate this vision with drawing tool on screenshot of game map base, dragging sheep, piper and lorries by hand
 X+ Lorry placeholder is stretched car
 + map grid marks back of lorry
 + separate grid for locating rogue 9, lorries 7&8, hat? piper? which can also store vales for single-use tiles 1-5 (Hat & Piper always in same place so grid marker not really needed)
+
+10 August
++ 
+11 August
++ timer mode expiry
+
+16 August
++ whats the difference (visually e.g. sheep movement, angle, orient) between Grazing, On_Fence, Waiting, and InPen?
++ roam timer (then maybe switch to grazing? or roam again with angle change?) and TimW's in-roam minor course changes, latter is equivalent to shorter timer with straight roam. 
