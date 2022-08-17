@@ -233,4 +233,17 @@ X+ Lorry placeholder is stretched car
 
 16 August
 + whats the difference (visually e.g. sheep movement, angle, orient) between Grazing, On_Fence, Waiting, and InPen?
-+ roam timer (then maybe switch to grazing? or roam again with angle change?) and TimW's in-roam minor course changes, latter is equivalent to shorter timer with straight roam. 
++ roam timer (then maybe switch to grazing? or roam again with angle change?) and TimW's in-roam minor course changes, latter is equivalent to shorter timer with straight roam.
++ graze/roam alternation; already has random timer for both so no need to randomize which new mode when timer expires
++ Can sheep on-fence or stacked/queuing roam - if so the test for Level End may fail? perhaps sheep on-fence grazes for a while (long timer) but eventually roams. If many sheep will be incr difficult to end level because only one pen tile. Or bring piper (and lorries) on sometime after first on-fence sheep but before level-ending. Piper influences roam direction, prevents Y upward and X awayFromCentre?
++ if On-Road similarly sheep can roam (cannot Graze) initially up 1 tile
++ any player control of Piper? facing = directional volume.
++ does Piper influence sheep not-on-fence but nearby? Saves long recall up to hat which might be frustrating if getting near was tricky.
++ collision avoidance by whiskers (left & right) and facing change.
++ how react if both whiskers detect obstacle - log to see if that ever happens (PERPENDICULAR APPROACH TO LAKE TILE). 
++ editMode UI show tuning for each level (and allow edits?)
++ init/reset mode as roam or graze
++ what's difference between init() and reset()? = here none
++ rogue unaffected by tiles looks odd
++ roaming sheep currently lack tilehandling (also they can get on road and cross fence from below)
++ only alter speed, and, direction when timer expires
