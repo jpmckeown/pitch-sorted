@@ -1,11 +1,15 @@
-Ideas
+# Principles
 + dont list obvious roles
 + explain focus of each week
 + mini GIFs or images in a grid e.g. 2 rows (see Eden Sky)
 
+# Tasks
+X+ for Pitch animate this vision with drawing tool on screenshot of game map base, dragging sheep, piper and lorries by hand
+
 # Ideas from other game pitches
 
 + cursive font for heading
++ About me spiritventure art, armour,
 
 "Why I want to make this game"
 Aims eg deliveringSmiles pair-programmng
@@ -23,3 +27,4 @@ stealth, how many enemy types,
 control = gamepad? Vector art
 
 drawing of lead e.g. Robo Explorer
+

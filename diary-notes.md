@@ -227,9 +227,28 @@ X+ Lorry placeholder is stretched car
 + separate grid for locating rogue 9, lorries 7&8, hat? piper? which can also store vales for single-use tiles 1-5 (Hat & Piper always in same place so grid marker not really needed)
 
 10 August
-+ 
++ Rear view of sheep? 
+
 11 August
-+ timer mode expiry
+D+ timer mode expiry
++ Reality is aiming so a stack on fence unlikely more than 2
+
+12 August
++ Youtuber critic is a playtester
++ Telemetry anonymous eg paths, score
+
+13 August
++ conveyor art placeholder double chevron
++ next X & Y
+
+14 August
++ Help button I'm stuck 
++ Touch devices help screen eg only click buttons not game
+
+15 August
+D+ tuning parameters
++ LI send itch link to exFalmouth Lecturer who try save Boxer
++ if tile stops called sheep does it lose mode (timer) or does it find a way around (AI)
 
 16 August
 + whats the difference (visually e.g. sheep movement, angle, orient) between Grazing, On_Fence, Waiting, and InPen?
@@ -245,5 +264,27 @@ X+ Lorry placeholder is stretched car
 + init/reset mode as roam or graze
 + what's difference between init() and reset()? = here none
 + rogue unaffected by tiles looks odd
+
+17 August
++ snap to column centre
++ collision & overlap
 + roaming sheep currently lack tilehandling (also they can get on road and cross fence from below)
-+ only alter speed, and, direction when timer expires
++ only alter speed and direction when timer expires
++ send itch link to Software Cornwall & Cornish Games Industry
+
+18 August
++ tile fence below road, only 20 pixels high
++ wider road allows wider lorry
++ add tail on sheep
++ work up a good Level 2 before Sunday
+
+19 August
++ bug= near top row sheep oscillating
++ reposition score (on face!) put below on road
++ while Send, wave tail (detach from ang)
++ sheep at central road not centring, maybe thats ok
++ if level-over put score where ID was, put ID where mode was
++ end-level remove level-name UI
++ stack, or slip to side?
++ thinner topknot to reduce sheep height
++ if Send expires (e.g. woods) randomize new facing
