@@ -278,13 +278,38 @@ D+ tuning parameters
 + add tail on sheep
 + work up a good Level 2 before Sunday
 
-19 August
-+ bug= near top row sheep oscillating
-+ reposition score (on face!) put below on road
+## 19 August
++ bug= near top row sheep oscillating, also at bottom row
+D+ reposition score (on face!) put below on road
 + while Send, wave tail (detach from ang)
 + sheep at central road not centring, maybe thats ok
 + if level-over put score where ID was, put ID where mode was
 + end-level remove level-name UI
 + stack, or slip to side?
-+ thinner topknot to reduce sheep height
++ thinner topknot &ruff? to reduce sheep height
 + if Send expires (e.g. woods) randomize new facing
++ goal stack above? score would be overlay sheep in goal, same on fence, therefore stacking isn't a good solution - in-goal could shuffle along road, but if on-fence arrival would shuffle sideways OR sheep on fence could shuffle closer to centre? Score above sheep? stacked would over-write that. If max 2 stack, botton below, top above. Or on sheep,or give up on individual scores, or one by one animated? 
++ tile-roam, no dont change mode, just lose direction and reduce speed; how does keeping Sent mode help? Maybe later recover direction.
++ tile-pond avoid wading through water, so turn sideways
++ colour Ruff so ang=downward doesnt look like bobblehat 
++ avoid bodytail looking like separated appendage
++ wobble head while Sent?
+
+## 20 August
++ properties for topknot, neckruff, bodytail PLAIN BLUE RED
++ rogue could make only one part UNSORT rather than whole sheep
++ snap-to-centre-col when reach bottom row or occupied cell
++ always Y=0.4 to (nearly) fit bodytail in cell
++ save to file, occupancy, sheep properties, sheep col&row
++ special case of save = level-ending
++ allow multiple L-E saves per level
++ load & display level-ending
++ save scoreboard to file
++ rotate head while Sorting? mode & timer for sorting
++ sorting expiry always transition to Held
++ cannot Send while Sorting
++ head 180deg (upside down) while angle upward
++ draw Occupancy grid above sheep, black if "1"
+D+ bug= levelDone=true but its moving!!
++ bug: roadCentre occupy grid not 1
++ if edge lake below avoid swing butt ove lake? how?

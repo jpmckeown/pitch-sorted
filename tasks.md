@@ -1,4 +1,6 @@
 # TASKS
++ buttons on Menu screen
++ ask Help re touch devices
 + bug: after Level, play stuck at level-over from prev level
 + bug: currentLevel must not change in level_over as it is still drawing completed level
 + if sheep at side half off screen, jump radius/2 in direction facing

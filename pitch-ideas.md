@@ -7,7 +7,7 @@
 X+ for Pitch animate this vision with drawing tool on screenshot of game map base, dragging sheep, piper and lorries by hand
 
 # Ideas from other game pitches
-
++ multiple small gifs in rectangle on same screen
 + cursive font for heading
 + About me spiritventure art, armour,
 

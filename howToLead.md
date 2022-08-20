@@ -20,9 +20,6 @@ post-relase survey H trayford
 + you can do things out of sequence
 + describe first week in Trello video
 
-Pitch
-+ multiple small gifs in rectangle on same screen
-
 Production
 + modular levels
 + sound for every event
