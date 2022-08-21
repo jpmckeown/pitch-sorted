@@ -21,13 +21,13 @@ Patrick McKeown
 
 ![](img/blue_sheep.jpg){.absolute top="40%" left="55%" width="211" height="175"}
 
-::: {.notes}
+::: notes
 Pitching today for SORTED a Javascript game releasing on 9th October
 :::
 
 ## About me
 
-:::: {.columns}
+::: columns
 ::: {.column width="50%"}
 5x gamechanger.
 
@@ -36,23 +36,20 @@ Contributed to 10+ HomeTeam games: mostly soundfx, sprites and shapes.
 
 ::: {.column width="50%"}
 :::
-::::
-s
-![](img/fairy_on_grass.png){.absolute top=0 left="50%" width="668" height="467"}
-![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"}
-![](GIF/flowerpot_transparent.GIF){.absolute top="55%" left="50%" width="64" height="64"}
-![](img/hovertactics.png){.absolute top="55%" left=0 width="408" height="302"}
+:::
+
+s ![](img/fairy_on_grass.png){.absolute top="0" left="50%" width="668" height="467"} ![](img/flowerpot1.png){.absolute top="48%" left="50%" width="384" height="192"} ![](GIF/flowerpot_transparent.GIF){.absolute top="55%" left="50%" width="64" height="64"} ![](img/hovertactics.png){.absolute top="55%" left="0" width="408" height="302"}
 
 ## About me
 
-:::: {.columns}
+::: columns
 ::: {.column width="50%"}
 This is my first time pitching a HomeTeam game.
 :::
 
 ::: {.column width="50%"}
 :::
-::::
+:::
 
 ## Overview
 
@@ -60,16 +57,17 @@ This is my first time pitching a HomeTeam game.
 
 ## Inspiration
 
-"One of the Herd" by Tim Waskett ^[https://stone-baked-games.itch.io/one-of-the-herd]
+"One of the Herd" by Tim Waskett [^1]
 
-![](img/herd-1.png){.absolute top=140 left=0 width="668" height="467"}
+[^1]: https://stone-baked-games.itch.io/one-of-the-herd
+
+![](img/herd-1.png){.absolute top="140" left="0" width="668" height="467"}
 
 ## Inspiration
 
 "Frogger"
 
-![](GIF/Frogger_reaches_goal_flip.gif){.absolute left=500 top=50 width="336" height="286"}
-![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left=0 top=440 width=334 height=183}
+![](GIF/Frogger_reaches_goal_flip.gif){.absolute left="500" top="50" width="336" height="286"} ![](GIF/Frogger_Parker_anim_crop_flip.gif){.absolute left="0" top="440" width="334" height="183"}
 
 ## Inspiration
 
@@ -77,26 +75,25 @@ This is my first time pitching a HomeTeam game.
 
 and the 2021 Nerial game
 
-![](img/animalfarm-cover.jpg){.absolute top=100 left=0 width=631 height=358}
-
+![](img/animalfarm-cover.jpg){.absolute top="100" left="0" width="631" height="358"}
 
 ## Inspiration {background-image="img/red_blue_sheep.jpg" background-color="black"}
 
-::: {.notes}
+::: notes
 On upland farms you often see sheep painted with different colours. This can signify various things, but one use is after assessing a sheep's quality. For example a farmer wants to identify ewes as fertile or barren. The infertile cannot stay in the flock and will be sold.
 :::
 
 ## Inspiration {background-image="img/smart-elevated-clamp.jpg" background-color="black"}
 
-::: {.notes}
+::: notes
 One at a time, to be assessed and painted sheep will go up into a clamp that holds them steady. High-end clamps have up and down ramps and this inspired the game mechanics beckon, paint, and drop.
 :::
 
 ## Inspiration {background-image="img/elevated-clamp.jpg"}
 
-![](img/sortingHat.jpg){.absolute left=920 top=480 width="225" height="225"}
+![](img/sortingHat.jpg){.absolute left="920" top="480" width="225" height="225"}
 
-::: {.notes}
+::: notes
 The player's icon symbolically represents the clamp and farmer combined. Placeholder art is a Sorting Hat because it reminds me of sorting a Hogwarts pupil into one of the team houses.
 :::
 
@@ -122,8 +119,7 @@ Where are the places that I need to move the sheep to?
 
 ## Game Look
 
-![](img/sortingHat.jpg)
-![](img/art_1.jpg)
+![](img/sortingHat.jpg) ![](img/art_1.jpg)
 
 Art: kids cartoon style
 
@@ -139,7 +135,7 @@ Halt: lake, sheep stops and grazes
 
 Roam: sheep lose momentum and go into graze/wander mode
 
-Unsort: mark covered up, magic? dust? girl with paintbrush? 
+Unsort: mark covered up, magic? dust? girl with paintbrush?
 
 ## Trello board
 
@@ -163,7 +159,7 @@ Beckon (sheep brought up to hat)
 
 ## Music roles
 
-Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting. 
+Placeholder music is "Sheep may safely graze" by JS Bach. This plays during menu and before sorting.
 
 When sorting begins a switch to different music with a slightly ominous tone would be helpful.
 
@@ -177,9 +173,7 @@ Sorting
 
 Drop
 
-Moving into terrain 
-
-
+Moving into terrain
 
 ## Code roles
 
