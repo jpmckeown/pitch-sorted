@@ -4,6 +4,10 @@ don't alter a contribution, ask them to change it and explain how
 tweet #ScreenshotSaturday tag that week's contributors
 post-relase survey H trayford
 
+## Demo
+clear console = Ctrl Shift L
+onscreen keyboard Fn activates function keys
+
 ## Update videos
 + 5 minutes
 + talk about upcoming week's tasks
@@ -20,7 +24,7 @@ post-relase survey H trayford
 + you can do things out of sequence
 + describe first week in Trello video
 
-Production
+## Production
 + modular levels
 + sound for every event
 + up to you but helpful please upload production file e.g. Aseprite, Audacity (in guidelines)

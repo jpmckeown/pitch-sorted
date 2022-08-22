@@ -285,6 +285,9 @@ D+ maybe only centre when sheep arrives at bottom
 + roaming sheep currently lack tilehandling (also they can get on road and cross fence from below)
 + only alter speed and direction when timer expires
 + send itch link to Software Cornwall & Cornish Games Industry
++ tail above head look silly; animate to waggle while Sent? that breaks principle of tail showing angle, but maybe emphasise sheep is under shepherd control while Sent (and Called).
++ Panic mode = short fast move away or sideways. When? if option to Send faster; if lorry approach? if wolf or hiker's dog nearby?
++ graze munching animation (this was before tail)
 
 ## 18 August
 + tile fence below road, only 20 pixels high

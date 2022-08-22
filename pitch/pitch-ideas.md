@@ -1,3 +1,10 @@
+
+# Look
++ slide background in past projects =
+dark grey x3; white x2; black x1; dark blue x1
+dark grey with midgrey cards; pale image (Eden tower); 
+image or yellow (zoomable big board, PewPew)
+
 # Principles
 + dont list obvious roles
 + explain focus of each week

@@ -1,6 +1,8 @@
 # TASKS
++ conveyor belt tilehandling code
 + buttons on Menu screen
 + ask Help re touch devices
++ project leadership study
 + bug: after Level, play stuck at level-over from prev level
 + bug: currentLevel must not change in level_over as it is still drawing completed level
 + if sheep at side half off screen, jump radius/2 in direction facing
@@ -15,7 +17,10 @@
 + Tile Occupied agentGrid - code exists, will it be reinstated?
 + will occupancy update e.g. erasing 1 from grid if sheep moves out
 + call/send cd have vfx sheepdog & soundfx
-+ whiskers - would they help?
++ whiskers TW early warning AI - would they help?
++ 2nd grid less strict than collision - sheep can pass through occupied square but cannot stop on it (like in a boardgame).
++ if arrive fence don't enter Road tile (nextY)
++ check labelling score vs ID tidy
 
 # ITCH.IO version changes
 editMode=false; currentLevel=1, css body margin=0 
