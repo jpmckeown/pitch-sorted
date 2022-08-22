@@ -191,6 +191,8 @@ X+ roles, mention Classic Games code familiar
 X+ timing sections of past pitches
 X+ terminology https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
 X+ video OotH scattering
++ portrait would give longer field run and pens closer together
++ start pens near middle of screen and shift outward (allegory for poltical polarization)
 
 3 August
 X+ trello warmup art: 
@@ -226,31 +228,43 @@ X+ Lorry placeholder is stretched car
 + map grid marks back of lorry
 + separate grid for locating rogue 9, lorries 7&8, hat? piper? which can also store vales for single-use tiles 1-5 (Hat & Piper always in same place so grid marker not really needed)
 
-10 August
+## 10 August
 + Rear view of sheep? 
++ player allow quit level
++ column-test GUI select columns & choose how many sheep
 
-11 August
+## 11 August
 D+ timer mode expiry
 + Reality is aiming so a stack on fence unlikely more than 2
 
-12 August
+## 12 August
 + Youtuber critic is a playtester
 + Telemetry anonymous eg paths, score
 
-13 August
+## 13 August
 + conveyor art placeholder double chevron
-+ next X & Y
+D+ next X & Y
++ LI send itch link to exFalmouth Lecturer who tried save Boxer in AF
 
-14 August
+## 14 August
 + Help button I'm stuck 
 + Touch devices help screen eg only click buttons not game
-
-15 August
-D+ tuning parameters
-+ LI send itch link to exFalmouth Lecturer who try save Boxer
 + if tile stops called sheep does it lose mode (timer) or does it find a way around (AI)
 
-16 August
+## 15 August
+D+ tuning parameters
++ if snap to col-centre then Roam must use gotoX with multiple of whole-tile move, and arrival (se RTS) expires mode rather than using a timer
++ if centring hat move change e.g. gotoX from arrowkeys, or deceleration tweak to only stop at centre points. 
++ centring won't prevent sideways arrival at occupied tile, so need better code than retreat 1 tile upward
++ classic Brickbreaker at collision recalled previous tile and direction of arrival (is that needed?) 
++ Y doesn't have to be tile-centred
+D+ maybe only centre when sheep arrives at bottom
++ deflect (or Conveyor) maybe set gotoXY instead of angle? Angle would be based on vector like in Spacebattle. 
++ can Conveyorbelt be done without centring?
++ conveyor can propel until icon edge exits tile and then revert to direction & speed before conveyor
+
+
+## 16 August
 + whats the difference (visually e.g. sheep movement, angle, orient) between Grazing, On_Fence, Waiting, and InPen?
 + roam timer (then maybe switch to grazing? or roam again with angle change?) and TimW's in-roam minor course changes, latter is equivalent to shorter timer with straight roam.
 + graze/roam alternation; already has random timer for both so no need to randomize which new mode when timer expires
@@ -265,14 +279,14 @@ D+ tuning parameters
 + what's difference between init() and reset()? = here none
 + rogue unaffected by tiles looks odd
 
-17 August
+## 17 August
 + snap to column centre
 + collision & overlap
 + roaming sheep currently lack tilehandling (also they can get on road and cross fence from below)
 + only alter speed and direction when timer expires
 + send itch link to Software Cornwall & Cornish Games Industry
 
-18 August
+## 18 August
 + tile fence below road, only 20 pixels high
 + wider road allows wider lorry
 + add tail on sheep
@@ -313,3 +327,9 @@ D+ reposition score (on face!) put below on road
 D+ bug= levelDone=true but its moving!!
 + bug: roadCentre occupy grid not 1
 + if edge lake below avoid swing butt ove lake? how?
+
+## 21 August
++ update say more about Done tasks, warmup, and coming week, maybe a look ahead
+
+## 22 August
++ For hole-in-one (and Balancing): record X pos of Hat at launch and X where sheep arrives at bottom of screen.
