@@ -1,35 +1,39 @@
 # TASKS
++ head orientation in pen sideways toward colour-side
++ while Sent head orient upside down?
++ while Called head orient 3/4 upright?
 + conveyor belt tilehandling code
 + buttons on Menu screen
 + ask Help re touch devices
+
++ 2nd grid less strict than collision - sheep can pass through occupied square but cannot stop on it (like in a boardgame).
++ if arrive fence don't enter Road tile (nextY)
 + project leadership study
-+ bug: after Level, play stuck at level-over from prev level
-+ bug: currentLevel must not change in level_over as it is still drawing completed level
+D+ bug: after Level, play stuck at level-over from prev level
+D+ bug: currentLevel must not change in level_over as it is still drawing completed level
 + if sheep at side half off screen, jump radius/2 in direction facing
 + tuning timer for Call, Send
 + move goal, fence, road from Mode to another property
 + lost-sheep move sideways, attracts sheep
-+ Panic mode?
 + branch let instead of var
 + backticks for multi-line text & areaGrid
 + Music safely plays through menu and pause. Other music play when scoring
 + probabilistic transition between modes?
-+ Tile Occupied agentGrid - code exists, will it be reinstated?
+D+ Tile Occupied agentGrid - code exists, will it be reinstated?
 + will occupancy update e.g. erasing 1 from grid if sheep moves out
 + call/send cd have vfx sheepdog & soundfx
 + whiskers TW early warning AI - would they help?
-+ 2nd grid less strict than collision - sheep can pass through occupied square but cannot stop on it (like in a boardgame).
-+ if arrive fence don't enter Road tile (nextY)
 + check labelling score vs ID tidy
 
 # ITCH.IO version changes
-editMode=false; currentLevel=1, css body margin=0 
+editMode=false;  css body margin=0 
+X currentLevel=1,
 
 # ASSETS
 Checklist: field, halt, bendx2, roam, conveyor, road, goal, rail; hat, sheep, rogue, lorryx2, lost_sheep, 
 
 # TRELLO
-+ integration art or sound as Code task
++ integration art or sound as Code task, + art integration Level 0 as a task?
 + After a mechanic change add card (and ask on Slack) for testing
 + ask testing feedback, any obscurity? week2 add Tutorial
 
@@ -39,7 +43,9 @@ Checklist: field, halt, bendx2, roam, conveyor, road, goal, rail; hat, sheep, ro
 + Send is "driving" though only 1 sheep
 
 ## Menu 
-+ bug: play isnt advancing Level 1 to 2
+
+## Visual art
+fix centroid of sheep face/whole body 
 
 ## Tiles
 + fence timer, will go back to roaming (increment sheepInPlay)
@@ -66,7 +72,10 @@ X+ turn away from Halt instead of graze-moving slowly through
 + end of round = lorries drive in, piper appears, lorries load
 + count time taken to complete level
 + at end round, 1 piper appears centre bottom & pipes sheep into gap
++ road-centre reserved empty for piper but tile above likely occupied by a sheep. Piper will not block sheep animation/move into lorries.
++ sheep on goal, do they load lorry before or after piper appears?
 + if wrong colour in lorry rumble inside and eject straight across to the other lorry, number on lorry changes
++ lorry label show how many sheep on board (all, blue, red)
 
 # design levels
 + manual placement has to pass x&y into function
@@ -85,7 +94,8 @@ X+ turn away from Halt instead of graze-moving slowly through
 
 # UI
 + key Send always a few times and only first useful
-
++ "Sorted" in top row left, disappears when Hat moves there
+ 
 # UX
 + GIF while game (images) loading
 + itch.io test phone
@@ -137,3 +147,6 @@ VISION:
 Sorted game mechanics will give clues that the sheep don't like being divided.
 
 - I am leaning away from overhead view because I am thinking of using sheep faces to show mood.
+
+# DONE
+D+ bug: play isnt advancing Level 1 to 2

@@ -1,5 +1,3 @@
-Timwaskett: Oh nice!  Yeah, that was a fun project, I'll poke my head in if you'd like any input.
-
 PigeonWhole
 X+ ball falls down centre of screen, deflect to score
 + matching eg get red ball in red pocket
@@ -79,6 +77,7 @@ June
 
 13 July
 + tutorial anim/vid Hat move, beckon, popup highlights arrow keys
++ tut close-up big meeples, cutscene intro
 + each level could have different background
 
 14 July
@@ -236,15 +235,22 @@ X+ Lorry placeholder is stretched car
 ## 11 August
 D+ timer mode expiry
 + Reality is aiming so a stack on fence unlikely more than 2
++ action points? hat cost 1 to move continously (not per pixel)
++ can action be refreshed within level?
++ keep Send strictly vertical
++ telemetry for scores
 
 ## 12 August
 + Youtuber critic is a playtester
 + Telemetry anonymous eg paths, score
++ when in lorry make sheep vanish
++ if onFence wander X axis only?
 
 ## 13 August
 + conveyor art placeholder double chevron
 D+ next X & Y
 + LI send itch link to exFalmouth Lecturer who tried save Boxer in AF
++ sheep state some are just locations
 
 ## 14 August
 + Help button I'm stuck 
@@ -294,6 +300,7 @@ D+ maybe only centre when sheep arrives at bottom
 + wider road allows wider lorry
 + add tail on sheep
 + work up a good Level 2 before Sunday
++ ?centred sheep slide from tile to tile? problem for deflect, and incompatible for small movement while graze; make dfferent game with slide-move on squares (or hexagons)
 
 ## 19 August
 + bug= near top row sheep oscillating, also at bottom row
@@ -330,9 +337,29 @@ D+ reposition score (on face!) put below on road
 D+ bug= levelDone=true but its moving!!
 + bug: roadCentre occupy grid not 1
 + if edge lake below avoid swing butt ove lake? how?
++ stuck tile, sheep cannot be Called and no timer expiry. boggy, swamp, not quicksand. sheep not permanently harmed but rescue is too late to be in lorry.
 
 ## 21 August
 + update say more about Done tasks, warmup, and coming week, maybe a look ahead
++ move sequence = mode behaviour (chance of angle change; speed should have been set when changeMode, once only), screenwrap, bounce top bottom, occupied test, tilehandling
 
 ## 22 August
-+ For hole-in-one (and Balancing): record X pos of Hat at launch and X where sheep arrives at bottom of screen.
++ For hole-in-one (and Balancing): record X pos of Hat at launch and Xpos where sheep arrives at bottom of screen.
++ to help demo naration, automate Hat movement (or buy Camtasia to allow dub webcam and audio on a video) though auto enables Hat to go to precise X value
++ findNearestXinList(hatXpos, listofsheep) return one X value
++ findNearestInList(xy, list) return object
++ when hat moving if gotoX not undefined: test gotoX-this.x if positive nextX+=speed else -=speed (skip other move code)
++ script go nearest, call, go launchX, send
++ likely need Hat mode automatic or manual
+
+## 23 August
++ head orientation in pen sideways toward colour-side
++ while Sent head orient upside down?
++ while Called head orient 3/4 upright?
++ autoCall easier if level's Roam & graze speeds set zero.
++ discover how many Hole-in-one level has (can be none, and too many is too easy and less field interaction)
++ by +/-20 offset from rowdrop automation can test all possible (if not column-centring at moment of Send, tho that prevent fine-tuning)
++ count all destinations, goal, fence, stack
++ AI go Call nearest plain/any sheep
++ AI go specified X and Send
++ is hat blocked from Send when is half-off edge of screen? test shows that Send works fine thre.

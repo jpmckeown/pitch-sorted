@@ -1,3 +1,5 @@
+
+
 Split = https://www.youtube.com/watch?v=y2ReytB1SX4
 https://theworkingsheepdog.com/shepherd-and-sheepdog-training-commands-and-terminology/
 Irish guys https://www.youtube.com/watch?v=y2ReytB1SX4

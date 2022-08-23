@@ -1,4 +1,6 @@
 
+# Timing
+Inspire 3:12  Demo 1:28  Vision 4:57  Trello 0:37  Roles: 2:13
 # Look
 + slide background in past projects =
 dark grey x3; white x2; black x1; dark blue x1

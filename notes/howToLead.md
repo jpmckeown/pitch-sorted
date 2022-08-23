@@ -3,10 +3,12 @@ Slack welcome: ask what role or task they would like to do
 don't alter a contribution, ask them to change it and explain how
 tweet #ScreenshotSaturday tag that week's contributors
 post-relase survey H trayford
+"feel free to tackle any of these bous; I will fix them otherwise"
 
 ## Demo
 clear console = Ctrl Shift L
 onscreen keyboard Fn activates function keys
++ give automated command, then free to speak
 
 ## Update videos
 + 5 minutes
