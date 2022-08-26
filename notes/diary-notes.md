@@ -366,22 +366,23 @@ D+ bug= levelDone=true but its moving!!
 
 ## 24 August
 + find whistle to record
++ rogue affected by some tiles e.g. slowed v much in boggy, slowed by copse, but stays on patrol
++ rogue AI avoids boggy, detour around
++ mobileClass extract some sheepClass code e.g. tileHandling
++ stream or ice puddle as conveyor graphic?
++ following a trail of veggies while traversing Conveyor-type tiles 
++ grazing soundfx, visualfx (impact on decals?)
++ brown hoofprints
 
-Yes, and following a trail of veggies while they are traversing Conveyor-type tiles would look cool and be a good reason why they go that direction
-Yes, following a trail of veggies while they are traversing Conveyor-type tiles would be good 
+## 25 August
++ unaided sheep small % chance break free of stuck tile, soundfx
++ Bo Peep AI release sheep from boggy, fence, goal "Sorted 2: Bo Peep"
++ buttons on right-hand side beyond grid
++ another game about road drivers (like Frogger enemies) hitting animals, play Frog who rescues them
 
-curr the sheep mode alternates between "Roam" and "Graze" and it would be cute if they audibly do some grazing. And
+## 26 August
 
-currently while in "Graze" a sheep still moves slightly, very slowly - they are in Graze mode around 3x longer time than Roam (edited) 
-
-// I plan to delete this, sorry: in PlayerMode it is making number keys active in the middle of gameplay, to jump to another level, or restart current level. To allow playerMode to select level, code would have to be elsewhere, in KeyState()
-  if(evt.keyCode >= KEY_NUM_0 && evt.keyCode <= KEY_NUM_9) {
-console.log("Loading from H's code in keySet() via Num-key")
-    loadLevel(evt.keyCode - KEY_NUM_0);
-  }
-/////////////////////////////////////////////////////
-
-If the aim is to allow playerMode Menu to select level with numkey, code could be elsewhere, in KeyState(). Or if the aim is to give designer in editMode a shortcut to restart level that might work but would need to only happen if EditMode == true
+currently sheep mode alternates between "Roam" and "Graze" and while in "Graze" a sheep still moves slightly, very slowly - they are in Graze mode around 3x longer time than Roam (edited) 
 
 Hi Tanuvi, was good to meet you. A prototype of the game, currently it can be played with keyboard or mouse but on iPad the buttons are not responding, maybe not on any touch device. It's plain Javascript, no libraries used and no game-engine. It's early stage in development, levels 1-4, mostly placeholder art, no soundfx. It will be free (aim is just to learn) but please don't share link beyond here (Clusters-Gateway group) because gamedev club will do a proper release at end of October. Here's the link: https://patrickmck.itch.io/sorted
 If you playtest any feedback much appreciated. Thanks.
