@@ -381,11 +381,10 @@ D+ bug= levelDone=true but its moving!!
 + another game about road drivers (like Frogger enemies) hitting animals, play Frog who rescues them
 
 ## 26 August
-
 currently sheep mode alternates between "Roam" and "Graze" and while in "Graze" a sheep still moves slightly, very slowly - they are in Graze mode around 3x longer time than Roam (edited) 
 
-Hi Tanuvi, was good to meet you. A prototype of the game, currently it can be played with keyboard or mouse but on iPad the buttons are not responding, maybe not on any touch device. It's plain Javascript, no libraries used and no game-engine. It's early stage in development, levels 1-4, mostly placeholder art, no soundfx. It will be free (aim is just to learn) but please don't share link beyond here (Clusters-Gateway group) because gamedev club will do a proper release at end of October. Here's the link: https://patrickmck.itch.io/sorted
-If you playtest any feedback much appreciated. Thanks.
+
+Hi Tanuvi, was good to meet you. A prototype of the game, currently it can be played with keyboard or mouse but on iPad the buttons are not responding, maybe not on any touch device. It's plain Javascript, no libraries used and no game-engine. It's early stage in development, levels 1-4, mostly placeholder art, no soundfx. It will be free (aim is just to learn) but please don't share link beyond here (Clusters-Gateway group) because gamedev club will do a proper release at end of October. Here's the link: https://patrickmck.itch.io/sorted If you playtest any feedback much appreciated. Thanks.
 
 cd /d/GitHub/butler-windows-amd64/
 ./butler push --ignore 'docs' --ignore 'asset_raw_source' --ignore 'asset' ../sorted PatrickMcK/sorted:html5
