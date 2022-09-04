@@ -1,3 +1,9 @@
+## Update Prep
++ wear white shirt
++ move nonessential windows into 2nd desktop
++ check OBS volume is maximum
++ script on left screen
+
 ## video general
 Function keys onscreen keyb
 max OBS volume + videolouder.com 3 decibels before upload

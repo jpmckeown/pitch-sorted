@@ -388,3 +388,19 @@ Hi Tanuvi, was good to meet you. A prototype of the game, currently it can be pl
 
 cd /d/GitHub/butler-windows-amd64/
 ./butler push --ignore 'docs' --ignore 'asset_raw_source' --ignore 'asset' ../sorted PatrickMcK/sorted:html5
+./butler push "/g/My Drive/game-dev/other/touch" PatrickMcK/touchtest:html5
+https://youtu.be/asOJ_skXCvU = pitch
+
+Moto E5 Play res = 228 ppi; and dim = 720 x 1440 i.e. game should fit... 
+but doesnt - shows top left 9/15 rows and 18/21 columns.
+
+Xioami shows 19 columns (plus extra 2/3) and 9 rows (plus extra 2/3)
+and changing embed width from 840 to 1024 didn't help
+
+ITCHIO branch changes
+main.js onload 
+report( "Touch device? " + isTouchDevice() );
+test.js
+var PHONE_TEST = true;
+index.html
+<canvas id="gameCanvas" width="960" height="630"></canvas>
