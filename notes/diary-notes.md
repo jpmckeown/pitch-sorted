@@ -33,22 +33,22 @@ March
 + EditMode jump to later step e.g. pocket filling up
 + nudge ball from side
 
-Theme = tribalism 
+Theme = tribalism
 + who is Sorter? fixated on one aspect, colour, and ignoring other differences e.g. texture, holes, shape square triangle, circle
 + can we get a ball's eye view?
 + tally events and score for each ball separately
-+ rejection: links to other balls in group initially form, but they puff particles at misfit ball, then links dissolve and misfit falls 
++ rejection: links to other balls in group initially form, but they puff particles at misfit ball, then links dissolve and misfit falls
 + before sort ball covered in swirling thick misfit+ confrmist mode, balls of diff colour also has asociated shape etc but later...
 + dont need to hit other ball at far end, if its near a bond forms but less score if distant (la Boule)
-Ball score = linked, accepted, events en route 
+Ball score = linked, accepted, events en route
 
 April
 + can you launch another ball while one still on its way (yes, collision between sheep will stop other going in clamp until first left)
 + at start show close-up image of Hat, sheep, goals
 + a 2nd colour on ball, spots or stripes
 + hat agitated (more jiggling) if impure sort
-+ debug eg mouse drag ball, 
-+ sprites idle Hat, moving Hat, stuck ball, 
++ debug eg mouse drag ball,
++ sprites idle Hat, moving Hat, stuck ball,
 
 May
 + make pattern eg 3 of same colour, centroids connecting line, score by angles or pattern, cohort complte all move in collector to score
@@ -99,8 +99,8 @@ June
 + in pen, stop walk, some jiggling?
 
 18 July
-+ separate scoring screen, like in SafeCode 
-+ began car code, down arrow drop, 
++ separate scoring screen, like in SafeCode
++ began car code, down arrow drop,
 
 19 July
 + level 2 drop only travels part-way
@@ -136,7 +136,7 @@ X+ Shaun slapstick, wild movement, spinning, visual comedy
 + Top row horizontal railway tracks emphasises hat cannot move down, 27th initially only 2 tiles each side, when hat moves more track laid ahead of it: homage to W&G Wrong Trousers;
 + early levels most errors miss both, because pens get bigger in later levels more arrivals in "The Wrong Lorry" (W&G)
 X+ level-state Save needed
-X+ avoided 2-player version (pied pipers) because dont want to encourage player to support either team. 
+X+ avoided 2-player version (pied pipers) because dont want to encourage player to support either team.
 + Shaun dog wears a het, but no, dog is against sort
 
 27 July
@@ -154,7 +154,7 @@ X+ avoided 2-player version (pied pipers) because dont want to encourage player 
 28 July
 X+ Sequence of inspiration: OneOfHerd, early bagatelle ball drop, then Vision = Amitheball? Animal Farm
 + rogue function unsort, test collision with all sheep (like spaceBattle)
-+ learning sequence - where player, how move, what can do? signif teams, where's goal; how score, how beckon, 
++ learning sequence - where player, how move, what can do? signif teams, where's goal; how score, how beckon,
 + how write new values into Grid ?
 + hat can screenwrap if not beckoning or clamping, will need hat.state
 + face demo should spin 1 face randomly a few rotations
@@ -179,7 +179,7 @@ X+ sheep sprite equal size head & body
 X+ GIF OotH scattering
 X+ stats for each sheep e.g. tired?
 X+ how make a tile single-use?
-X+ book has spritesheet example 
+X+ book has spritesheet example
 + look at Kenyon Pizza dropping pieces
 X+ enlarge Frogger GIF display
 X + retry video autoplay (failed, use GIFs)
@@ -194,7 +194,7 @@ X+ video OotH scattering
 + start pens near middle of screen and shift outward (allegory for poltical polarization)
 
 3 August
-X+ trello warmup art: 
+X+ trello warmup art:
 X+ mood countryside pictures
 X+ Faraway tree montage
 X+ level editor maintaining newline?
@@ -202,7 +202,7 @@ X+ make sheepdog trials videos into GIFs
 X+ video of sheep in clamp being painted, not found
 
 4 August
-X+ portraits: hat, sheep, rogue, 
+X+ portraits: hat, sheep, rogue,
 X+ where is my collection HH pics?
 X+ book meeting with Karen for level design and Liz for UX
 X+ in-game tutorial
@@ -228,7 +228,7 @@ X+ Lorry placeholder is stretched car
 + separate grid for locating rogue 9, lorries 7&8, hat? piper? which can also store vales for single-use tiles 1-5 (Hat & Piper always in same place so grid marker not really needed)
 
 ## 10 August
-+ Rear view of sheep? 
++ Rear view of sheep?
 + player allow quit level
 + column-test GUI select columns & choose how many sheep
 
@@ -253,19 +253,19 @@ D+ next X & Y
 + sheep state some are just locations
 
 ## 14 August
-+ Help button I'm stuck 
++ Help button I'm stuck
 + Touch devices help screen eg only click buttons not game
 + if tile stops called sheep does it lose mode (timer) or does it find a way around (AI)
 
 ## 15 August
 D+ tuning parameters
 + if snap to col-centre then Roam must use gotoX with multiple of whole-tile move, and arrival (se RTS) expires mode rather than using a timer
-+ if centring hat move change e.g. gotoX from arrowkeys, or deceleration tweak to only stop at centre points. 
++ if centring hat move change e.g. gotoX from arrowkeys, or deceleration tweak to only stop at centre points.
 + centring won't prevent sideways arrival at occupied tile, so need better code than retreat 1 tile upward
-+ classic Brickbreaker at collision recalled previous tile and direction of arrival (is that needed?) 
++ classic Brickbreaker at collision recalled previous tile and direction of arrival (is that needed?)
 + Y doesn't have to be tile-centred
 D+ maybe only centre when sheep arrives at bottom
-+ deflect (or Conveyor) maybe set gotoXY instead of angle? Angle would be based on vector like in Spacebattle. 
++ deflect (or Conveyor) maybe set gotoXY instead of angle? Angle would be based on vector like in Spacebattle.
 + can Conveyorbelt be done without centring?
 + conveyor can propel until icon edge exits tile and then revert to direction & speed before conveyor
 
@@ -279,7 +279,7 @@ D+ maybe only centre when sheep arrives at bottom
 + any player control of Piper? facing = directional volume.
 + does Piper influence sheep not-on-fence but nearby? Saves long recall up to hat which might be frustrating if getting near was tricky.
 + collision avoidance by whiskers (left & right) and facing change.
-+ how react if both whiskers detect obstacle - log to see if that ever happens (PERPENDICULAR APPROACH TO LAKE TILE). 
++ how react if both whiskers detect obstacle - log to see if that ever happens (PERPENDICULAR APPROACH TO LAKE TILE).
 + editMode UI show tuning for each level (and allow edits?)
 + init/reset mode as roam or graze
 + what's difference between init() and reset()? = here none
@@ -312,10 +312,10 @@ D+ reposition score (on face!) put below on road
 + stack, or slip to side?
 + thinner topknot &ruff? to reduce sheep height
 + if Send expires (e.g. woods) randomize new facing
-+ goal stack above? score would be overlay sheep in goal, same on fence, therefore stacking isn't a good solution - in-goal could shuffle along road, but if on-fence arrival would shuffle sideways OR sheep on fence could shuffle closer to centre? Score above sheep? stacked would over-write that. If max 2 stack, botton below, top above. Or on sheep,or give up on individual scores, or one by one animated? 
++ goal stack above? score would be overlay sheep in goal, same on fence, therefore stacking isn't a good solution - in-goal could shuffle along road, but if on-fence arrival would shuffle sideways OR sheep on fence could shuffle closer to centre? Score above sheep? stacked would over-write that. If max 2 stack, botton below, top above. Or on sheep,or give up on individual scores, or one by one animated?
 + tile-roam, no dont change mode, just lose direction and reduce speed; how does keeping Sent mode help? Maybe later recover direction.
 + tile-pond avoid wading through water, so turn sideways
-+ colour Ruff so ang=downward doesnt look like bobblehat 
++ colour Ruff so ang=downward doesnt look like bobblehat
 + avoid bodytail looking like separated appendage
 + wobble head while Sent?
 
@@ -370,7 +370,7 @@ D+ bug= levelDone=true but its moving!!
 + rogue AI avoids boggy, detour around
 + mobileClass extract some sheepClass code e.g. tileHandling
 + stream or ice puddle as conveyor graphic?
-+ following a trail of veggies while traversing Conveyor-type tiles 
++ following a trail of veggies while traversing Conveyor-type tiles
 + grazing soundfx, visualfx (impact on decals?)
 + brown hoofprints
 
@@ -381,26 +381,71 @@ D+ bug= levelDone=true but its moving!!
 + another game about road drivers (like Frogger enemies) hitting animals, play Frog who rescues them
 
 ## 26 August
-currently sheep mode alternates between "Roam" and "Graze" and while in "Graze" a sheep still moves slightly, very slowly - they are in Graze mode around 3x longer time than Roam (edited) 
++ currently sheep mode alternates between "Roam" and "Graze" and while in "Graze" a sheep still moves slightly, very slowly - they are in Graze mode around 3x longer time than Roam (edited)
++ move button code to separate file
 
+## 31 August
++ how pre-warn effects of diff tiles?
++ make easy to replay same level, choice
++ fontsize advance proportional to score previous
++ tutorial will use hat automation and voiceover
++ how was voiceover done in The Pit?
 
-Hi Tanuvi, was good to meet you. A prototype of the game, currently it can be played with keyboard or mouse but on iPad the buttons are not responding, maybe not on any touch device. It's plain Javascript, no libraries used and no game-engine. It's early stage in development, levels 1-4, mostly placeholder art, no soundfx. It will be free (aim is just to learn) but please don't share link beyond here (Clusters-Gateway group) because gamedev club will do a proper release at end of October. Here's the link: https://patrickmck.itch.io/sorted If you playtest any feedback much appreciated. Thanks.
+## 1 September
++ identify which drop-columns affected by Bend is difficult eg conveyor & bend interact
++ if every X tested means 840 rows of data in each test file!
++ compromise test send from 10-pixel intervals
++ when is visual test needed, versus vfast just to get data
++ scoring not needed in test; can be calc afterward if metadata supplied
++ stacking & tests
 
-cd /d/GitHub/butler-windows-amd64/
-./butler push --ignore 'docs' --ignore 'asset_raw_source' --ignore 'asset' ../sorted PatrickMcK/sorted:html5
-./butler push "/g/My Drive/game-dev/other/touch" PatrickMcK/touchtest:html5
-https://youtu.be/asOJ_skXCvU = pitch
+## 2 September
++ playLevel vs currentLevel (nightmare bugs)
++ fsatTest no grazing and speedy Roam, to reach endLevel, lower CPU
++ roam destination stochastic result so must record mode used (not just final mode) e.g. flag?
++ record any Stuck in test data
++ move dogTimer decr from Main.js to Rogue.js in-class
++ Input.js avoid actio nere?
 
-Moto E5 Play res = 228 ppi; and dim = 720 x 1440 i.e. game should fit... 
+## 3 September
++ 3am! conveyor speed must balance with send speed (sheep can drop through)
++ canvasButtons left/right broken (start then no move), never set False
++ try timer before allowing False?
++ buttons on road adhoc not transferable future games = Bad solution
++ removing keyheld False will allow friction to stop Hat
++ when a key press, set other keyHelds false
+
+## 4 September
++ 3-sided pen after entry add gate 4th side
++ dump road & lorries, or after level rows mive up to reveal road (and hide hat row)
++ what does stacking signify?
++ stacked sheep above goal: should they get goal score bonus? (as H assumed)
++ occupy/stack shouldnt restrict sideways roaming?
++ Occupy applied only to bottom row, 1=occupy, 2=stack (doesnt affect tileHandling)
+
+## 5 September
++ move Hat like warrior not car; change goto in TILE_W increments
++ centre-column Hat movement would simplify test, and maybe fix Touch?
++ should Test info be stored as sheep class properties?
++ hatmove try no False, accelerate max speed with mouse
+D+ goals fencepos
+
+Photopea: grey 555 & noise 22%  instead of black & 88%
+photo grass = #3a6f07 (copy2) 9caa48 (copy3)
+stream #4e789c  Republican red #ca1504
+
+## 6 September
++ goal 3 cols, then 2, by level 9 goal reach edge play field
++ Moto E5 Play res = 228 ppi; and dim = 720 x 1440 i.e. game should fit...
 but doesnt - shows top left 9/15 rows and 18/21 columns.
-
 Xioami shows 19 columns (plus extra 2/3) and 9 rows (plus extra 2/3)
 and changing embed width from 840 to 1024 didn't help
 
-ITCHIO branch changes
-main.js onload 
-report( "Touch device? " + isTouchDevice() );
-test.js
-var PHONE_TEST = true;
-index.html
-<canvas id="gameCanvas" width="960" height="630"></canvas>
+## 7 September
++ reuse same bar buttons and hiding, relabelling, reclassing will allow disabling after click for some intervals. maybe set action by class rather than directly in btn
++ init bar h1 p menu Sorted sub pick msg; Play Level num name
+
+## 8 September
++ scaling canvas-only means my flexbox and CSS buttons are not usable, which also means I lose the game border
++ 50px allows more butt, when pos outofplay shift head off centre in angle direction so well inside tile
++ when stacking, extend fenceposts to tile(s) above (also extend ditch?)
