@@ -49,3 +49,8 @@ p {
 
 pre {-moz-tab-size: 10;} /* Firefox */
 pre {tab-size: 10;}
+
+.nought {
+  border: 1px solid #000;
+  color:#32c962;
+}

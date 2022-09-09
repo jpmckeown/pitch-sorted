@@ -449,3 +449,10 @@ and changing embed width from 840 to 1024 didn't help
 + scaling canvas-only means my flexbox and CSS buttons are not usable, which also means I lose the game border
 + 50px allows more butt, when pos outofplay shift head off centre in angle direction so well inside tile
 + when stacking, extend fenceposts to tile(s) above (also extend ditch?)
+
+## 9 September
+
++ these releveant when writing to <P> but not if bar
+  debugPname = "debug_" + debugN;
+  debugTextLine[debugN] += ' ' + msg;
+    document.getElementById(debugParagName).innerHTML = debugTextLine[debugN];
