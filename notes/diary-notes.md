@@ -451,8 +451,21 @@ and changing embed width from 840 to 1024 didn't help
 + when stacking, extend fenceposts to tile(s) above (also extend ditch?)
 
 ## 9 September
-
 + these releveant when writing to <P> but not if bar
   debugPname = "debug_" + debugN;
   debugTextLine[debugN] += ' ' + msg;
     document.getElementById(debugParagName).innerHTML = debugTextLine[debugN];
+
+## 10 September
++ if device width < height then portrait version with buttons under play field. would i have to create canvas in js ? no they seem to be resized,
++ js device orientation check to control flexbox size etc in CSS for index.html
+
+## 11 September
++ Check other Js games for scaling & phones
++ 2 drawing canvases, or field canvas + flexbox
+
+## 12 September
++ F1 mode wider rightbar?
++ Next steps: mousepos, buttons, hat slide, level editor, f1 menu level edit first, 2nd play manual test, Level buttons in sidebar? No f1 shd use keys
++ art guide: Because the field background is mostly dark, after testing the sheep it emerged that a darker patch if bordering field needed a mid grey (and consequently eyeballs became white). But I think yes darker to look different from sheep
++ to let mouse see 800 canvas may need to be 2+ pixels wider (sees 0 ok?)

@@ -15,3 +15,6 @@ make big number (the level) with tiles!, func to draw number
 
 # next time
 if send_speed low adjacent bend tiles can reverse a sheep
+
+Upload
+https://drive.google.com/drive/folders/1_4tM-5lqNES-6h8tO_j83QF4dpjBCG6y
